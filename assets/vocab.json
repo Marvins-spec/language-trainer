@@ -1,0 +1,6099 @@
+[
+  {
+    "word": "ability",
+    "pos": "noun",
+    "meaningEn": "the skill or power to do something",
+    "meaningTh": "ความสามารถ",
+    "example": "She has the ability to solve difficult problems."
+  },
+  {
+    "word": "able",
+    "pos": "adjective",
+    "meaningEn": "having the skill or power to do something",
+    "meaningTh": "สามารถ",
+    "example": "He is able to speak three languages."
+  },
+  {
+    "word": "abroad",
+    "pos": "adverb",
+    "meaningEn": "in or to a foreign country",
+    "meaningTh": "ต่างประเทศ",
+    "example": "She studied abroad last year."
+  },
+  {
+    "word": "accept",
+    "pos": "verb",
+    "meaningEn": "to agree to receive or do something",
+    "meaningTh": "ยอมรับ",
+    "example": "He accepted the job offer."
+  },
+  {
+    "word": "accident",
+    "pos": "noun",
+    "meaningEn": "something bad that happens unexpectedly",
+    "meaningTh": "อุบัติเหตุ",
+    "example": "She had a car accident."
+  },
+  {
+    "word": "according to",
+    "pos": "preposition",
+    "meaningEn": "as stated by someone or something",
+    "meaningTh": "ตามที่",
+    "example": "According to the news, it will rain."
+  },
+  {
+    "word": "achieve",
+    "pos": "verb",
+    "meaningEn": "to succeed in doing something",
+    "meaningTh": "บรรลุ",
+    "example": "He achieved his goal."
+  },
+  {
+    "word": "act",
+    "pos": "verb",
+    "meaningEn": "to do something",
+    "meaningTh": "กระทำ",
+    "example": "You need to act quickly."
+  },
+  {
+    "word": "active",
+    "pos": "adjective",
+    "meaningEn": "doing many things; energetic",
+    "meaningTh": "กระตือรือร้น",
+    "example": "She is very active at school."
+  },
+  {
+    "word": "actually",
+    "pos": "adverb",
+    "meaningEn": "in fact",
+    "meaningTh": "จริง ๆ แล้ว",
+    "example": "Actually, I prefer tea."
+  },
+  {
+    "word": "adult",
+    "pos": "adjective",
+    "meaningEn": "fully grown",
+    "meaningTh": "ที่เป็นผู้ใหญ่",
+    "example": "This movie is for adult audiences."
+  },
+  {
+    "word": "advantage",
+    "pos": "noun",
+    "meaningEn": "a good or useful feature",
+    "meaningTh": "ข้อได้เปรียบ",
+    "example": "Being tall is an advantage in basketball."
+  },
+  {
+    "word": "adventure",
+    "pos": "noun",
+    "meaningEn": "an exciting experience",
+    "meaningTh": "การผจญภัย",
+    "example": "They went on an adventure in the jungle."
+  },
+  {
+    "word": "advertise",
+    "pos": "verb",
+    "meaningEn": "to tell people about a product to sell it",
+    "meaningTh": "โฆษณา",
+    "example": "They advertise their products online."
+  },
+  {
+    "word": "advertisement",
+    "pos": "noun",
+    "meaningEn": "a notice to sell something",
+    "meaningTh": "โฆษณา",
+    "example": "I saw the advertisement on TV."
+  },
+  {
+    "word": "advertising",
+    "pos": "noun",
+    "meaningEn": "the activity of promoting products",
+    "meaningTh": "การโฆษณา",
+    "example": "Advertising is important for business."
+  },
+  {
+    "word": "affect",
+    "pos": "verb",
+    "meaningEn": "to influence something",
+    "meaningTh": "ส่งผลกระทบ",
+    "example": "Weather can affect your mood."
+  },
+  {
+    "word": "after",
+    "pos": "conjunction, adverb",
+    "meaningEn": "later than something",
+    "meaningTh": "หลังจาก",
+    "example": "We went home after dinner."
+  },
+  {
+    "word": "against",
+    "pos": "preposition",
+    "meaningEn": "opposite to; not agreeing with",
+    "meaningTh": "ต่อต้าน / ชิดกับ",
+    "example": "He is against the plan."
+  },
+  {
+    "word": "ah",
+    "pos": "exclamation",
+    "meaningEn": "used to show surprise or understanding",
+    "meaningTh": "อ๋อ / อ้า",
+    "example": "Ah, I see what you mean."
+  },
+  {
+    "word": "airline",
+    "pos": "noun",
+    "meaningEn": "a company that provides flights",
+    "meaningTh": "สายการบิน",
+    "example": "Which airline are you flying with?"
+  },
+  {
+    "word": "alive",
+    "pos": "adjective",
+    "meaningEn": "living; not dead",
+    "meaningTh": "มีชีวิตอยู่",
+    "example": "The fish is still alive."
+  },
+  {
+    "word": "all",
+    "pos": "adverb",
+    "meaningEn": "completely",
+    "meaningTh": "ทั้งหมด / อย่างสมบูรณ์",
+    "example": "The food is all gone."
+  },
+  {
+    "word": "all right",
+    "pos": "adjective, adverb, exclamation",
+    "meaningEn": "okay; satisfactory",
+    "meaningTh": "โอเค / เรียบร้อย",
+    "example": "Are you all right?"
+  },
+  {
+    "word": "allow",
+    "pos": "verb",
+    "meaningEn": "to let someone do something",
+    "meaningTh": "อนุญาต",
+    "example": "They allow students to use phones."
+  },
+  {
+    "word": "almost",
+    "pos": "adverb",
+    "meaningEn": "nearly",
+    "meaningTh": "เกือบ",
+    "example": "It is almost midnight."
+  },
+  {
+    "word": "alone",
+    "pos": "adjective, adverb",
+    "meaningEn": "without other people",
+    "meaningTh": "คนเดียว",
+    "example": "She lives alone."
+  },
+  {
+    "word": "along",
+    "pos": "preposition, adverb",
+    "meaningEn": "from one end to the other",
+    "meaningTh": "ตามแนว",
+    "example": "We walked along the beach."
+  },
+  {
+    "word": "already",
+    "pos": "adverb",
+    "meaningEn": "before now",
+    "meaningTh": "แล้ว",
+    "example": "I have already finished."
+  },
+  {
+    "word": "alternative",
+    "pos": "noun",
+    "meaningEn": "another possibility or choice",
+    "meaningTh": "ทางเลือก",
+    "example": "We need an alternative plan."
+  },
+  {
+    "word": "although",
+    "pos": "conjunction",
+    "meaningEn": "even if",
+    "meaningTh": "แม้ว่า",
+    "example": "Although it was cold, we went out."
+  },
+  {
+    "word": "among",
+    "pos": "preposition",
+    "meaningEn": "in the middle of a group",
+    "meaningTh": "ท่ามกลาง",
+    "example": "She was sitting among friends."
+  },
+  {
+    "word": "amount",
+    "pos": "noun",
+    "meaningEn": "a quantity of something",
+    "meaningTh": "จำนวน",
+    "example": "A large amount of money was spent."
+  },
+  {
+    "word": "ancient",
+    "pos": "adjective",
+    "meaningEn": "very old",
+    "meaningTh": "โบราณ",
+    "example": "They visited ancient ruins."
+  },
+  {
+    "word": "ankle",
+    "pos": "noun",
+    "meaningEn": "the joint between the foot and the leg",
+    "meaningTh": "ข้อเท้า",
+    "example": "He hurt his ankle."
+  },
+  {
+    "word": "any",
+    "pos": "adverb",
+    "meaningEn": "at all; used in questions and negatives",
+    "meaningTh": "เลย / ใด ๆ",
+    "example": "Do you have any money?"
+  },
+  {
+    "word": "anybody",
+    "pos": "pronoun",
+    "meaningEn": "any person",
+    "meaningTh": "ใครก็ตาม",
+    "example": "Does anybody know the answer?"
+  },
+  {
+    "word": "any more",
+    "pos": "adverb",
+    "meaningEn": "any longer; to any further degree",
+    "meaningTh": "อีกต่อไป",
+    "example": "I don't live there any more."
+  },
+  {
+    "word": "anyway",
+    "pos": "adverb",
+    "meaningEn": "despite something; in any case",
+    "meaningTh": "อย่างไรก็ตาม",
+    "example": "It was raining, but we went anyway."
+  },
+  {
+    "word": "anywhere",
+    "pos": "adverb, pronoun",
+    "meaningEn": "in or to any place",
+    "meaningTh": "ที่ไหนก็ได้",
+    "example": "You can sit anywhere."
+  },
+  {
+    "word": "app",
+    "pos": "noun",
+    "meaningEn": "a computer or mobile application",
+    "meaningTh": "แอปพลิเคชัน",
+    "example": "I downloaded a new app."
+  },
+  {
+    "word": "appear",
+    "pos": "verb",
+    "meaningEn": "to become visible",
+    "meaningTh": "ปรากฏ",
+    "example": "A rainbow appeared in the sky."
+  },
+  {
+    "word": "appearance",
+    "pos": "noun",
+    "meaningEn": "the way someone or something looks",
+    "meaningTh": "รูปลักษณ์",
+    "example": "She cares about her appearance."
+  },
+  {
+    "word": "apply",
+    "pos": "verb",
+    "meaningEn": "to make a request; to use",
+    "meaningTh": "สมัคร / ใช้",
+    "example": "She applied for the job."
+  },
+  {
+    "word": "architect",
+    "pos": "noun",
+    "meaningEn": "a person who designs buildings",
+    "meaningTh": "สถาปนิก",
+    "example": "The architect designed the house."
+  },
+  {
+    "word": "architecture",
+    "pos": "noun",
+    "meaningEn": "the design of buildings",
+    "meaningTh": "สถาปัตยกรรม",
+    "example": "The city is famous for its architecture."
+  },
+  {
+    "word": "argue",
+    "pos": "verb",
+    "meaningEn": "to speak angrily because you disagree",
+    "meaningTh": "โต้เถียง",
+    "example": "They argued about money."
+  },
+  {
+    "word": "argument",
+    "pos": "noun",
+    "meaningEn": "a disagreement",
+    "meaningTh": "การโต้เถียง",
+    "example": "They had an argument."
+  },
+  {
+    "word": "army",
+    "pos": "noun",
+    "meaningEn": "a country's military force",
+    "meaningTh": "กองทัพ",
+    "example": "He joined the army."
+  },
+  {
+    "word": "arrange",
+    "pos": "verb",
+    "meaningEn": "to organize or plan",
+    "meaningTh": "จัดเตรียม",
+    "example": "She arranged the meeting."
+  },
+  {
+    "word": "arrangement",
+    "pos": "noun",
+    "meaningEn": "plans or preparations",
+    "meaningTh": "การจัดเตรียม",
+    "example": "Travel arrangements were made."
+  },
+  {
+    "word": "as",
+    "pos": "adverb, conjunction",
+    "meaningEn": "while; because; in the same way",
+    "meaningTh": "ขณะที่ / เพราะว่า / เหมือนกับ",
+    "example": "She smiled as she spoke."
+  },
+  {
+    "word": "asleep",
+    "pos": "adjective",
+    "meaningEn": "sleeping",
+    "meaningTh": "หลับอยู่",
+    "example": "The baby is asleep."
+  },
+  {
+    "word": "assistant",
+    "pos": "noun, adjective",
+    "meaningEn": "a person who helps; helping",
+    "meaningTh": "ผู้ช่วย",
+    "example": "She works as a shop assistant."
+  },
+  {
+    "word": "athlete",
+    "pos": "noun",
+    "meaningEn": "a person who plays sports",
+    "meaningTh": "นักกีฬา",
+    "example": "He is a professional athlete."
+  },
+  {
+    "word": "attack",
+    "pos": "noun, verb",
+    "meaningEn": "to try to hurt or damage",
+    "meaningTh": "โจมตี",
+    "example": "The dog attacked the man."
+  },
+  {
+    "word": "attend",
+    "pos": "verb",
+    "meaningEn": "to go to or be present at",
+    "meaningTh": "เข้าร่วม",
+    "example": "She attended the meeting."
+  },
+  {
+    "word": "attention",
+    "pos": "noun, exclamation",
+    "meaningEn": "focus or notice",
+    "meaningTh": "ความสนใจ",
+    "example": "Pay attention to the teacher."
+  },
+  {
+    "word": "attractive",
+    "pos": "adjective",
+    "meaningEn": "good-looking or appealing",
+    "meaningTh": "น่าดึงดูด",
+    "example": "It is an attractive offer."
+  },
+  {
+    "word": "audience",
+    "pos": "noun",
+    "meaningEn": "the people watching or listening",
+    "meaningTh": "ผู้ชม",
+    "example": "The audience clapped loudly."
+  },
+  {
+    "word": "author",
+    "pos": "noun",
+    "meaningEn": "a person who writes books",
+    "meaningTh": "นักเขียน",
+    "example": "She is a famous author."
+  },
+  {
+    "word": "available",
+    "pos": "adjective",
+    "meaningEn": "able to be used or obtained",
+    "meaningTh": "มีอยู่ / พร้อมใช้งาน",
+    "example": "Tickets are available online."
+  },
+  {
+    "word": "average",
+    "pos": "adjective, noun",
+    "meaningEn": "typical; the usual amount",
+    "meaningTh": "โดยเฉลี่ย",
+    "example": "The average score was 70."
+  },
+  {
+    "word": "avoid",
+    "pos": "verb",
+    "meaningEn": "to stay away from",
+    "meaningTh": "หลีกเลี่ยง",
+    "example": "Try to avoid junk food."
+  },
+  {
+    "word": "award",
+    "pos": "noun",
+    "meaningEn": "a prize",
+    "meaningTh": "รางวัล",
+    "example": "She won an award."
+  },
+  {
+    "word": "awful",
+    "pos": "adjective",
+    "meaningEn": "very bad",
+    "meaningTh": "แย่มาก",
+    "example": "The weather was awful."
+  },
+  {
+    "word": "back",
+    "pos": "adjective",
+    "meaningEn": "at the rear",
+    "meaningTh": "ด้านหลัง",
+    "example": "She sat in the back seat."
+  },
+  {
+    "word": "background",
+    "pos": "noun",
+    "meaningEn": "the situation or past of someone",
+    "meaningTh": "ภูมิหลัง",
+    "example": "He has a medical background."
+  },
+  {
+    "word": "badly",
+    "pos": "adverb",
+    "meaningEn": "in a poor way",
+    "meaningTh": "อย่างแย่",
+    "example": "He played badly."
+  },
+  {
+    "word": "bar",
+    "pos": "noun",
+    "meaningEn": "a place where drinks are served",
+    "meaningTh": "บาร์",
+    "example": "They met at a bar."
+  },
+  {
+    "word": "baseball",
+    "pos": "noun",
+    "meaningEn": "a bat-and-ball sport",
+    "meaningTh": "กีฬาเบสบอล",
+    "example": "He plays baseball."
+  },
+  {
+    "word": "based",
+    "pos": "adjective",
+    "meaningEn": "having as a foundation",
+    "meaningTh": "ตั้งอยู่บน",
+    "example": "The movie is based on a true story."
+  },
+  {
+    "word": "basketball",
+    "pos": "noun",
+    "meaningEn": "a sport played with a ball and hoop",
+    "meaningTh": "กีฬาบาสเกตบอล",
+    "example": "She likes basketball."
+  },
+  {
+    "word": "bean",
+    "pos": "noun",
+    "meaningEn": "a small seed used as food",
+    "meaningTh": "ถั่ว",
+    "example": "He ate rice and beans."
+  },
+  {
+    "word": "bear",
+    "pos": "noun",
+    "meaningEn": "a large wild animal",
+    "meaningTh": "หมี",
+    "example": "We saw a bear in the forest."
+  },
+  {
+    "word": "beat",
+    "pos": "verb",
+    "meaningEn": "to win against someone",
+    "meaningTh": "เอาชนะ",
+    "example": "Our team beat theirs."
+  },
+  {
+    "word": "beef",
+    "pos": "noun",
+    "meaningEn": "meat from a cow",
+    "meaningTh": "เนื้อวัว",
+    "example": "She ordered beef for dinner."
+  },
+  {
+    "word": "before",
+    "pos": "conjunction, adverb",
+    "meaningEn": "earlier than",
+    "meaningTh": "ก่อน",
+    "example": "Wash your hands before eating."
+  },
+  {
+    "word": "behave",
+    "pos": "verb",
+    "meaningEn": "to act in a particular way",
+    "meaningTh": "ประพฤติตัว",
+    "example": "Please behave in class."
+  },
+  {
+    "word": "behaviour",
+    "pos": "noun",
+    "meaningEn": "the way someone acts",
+    "meaningTh": "พฤติกรรม",
+    "example": "His behaviour was polite."
+  },
+  {
+    "word": "belong",
+    "pos": "verb",
+    "meaningEn": "to be owned by someone",
+    "meaningTh": "เป็นของ",
+    "example": "This book belongs to me."
+  },
+  {
+    "word": "belt",
+    "pos": "noun",
+    "meaningEn": "a strip worn around the waist",
+    "meaningTh": "เข็มขัด",
+    "example": "He wore a black belt."
+  },
+  {
+    "word": "benefit",
+    "pos": "noun",
+    "meaningEn": "an advantage or good effect",
+    "meaningTh": "ประโยชน์",
+    "example": "Exercise has many benefits."
+  },
+  {
+    "word": "best",
+    "pos": "adverb, noun",
+    "meaningEn": "better than all others",
+    "meaningTh": "ดีที่สุด",
+    "example": "She did her best."
+  },
+  {
+    "word": "better",
+    "pos": "adverb",
+    "meaningEn": "in a more good way",
+    "meaningTh": "ดีกว่า",
+    "example": "He sings better now."
+  },
+  {
+    "word": "between",
+    "pos": "adverb",
+    "meaningEn": "in the space separating two things",
+    "meaningTh": "ระหว่าง",
+    "example": "The shop is between the bank and the cafe."
+  },
+  {
+    "word": "billion",
+    "pos": "number",
+    "meaningEn": "one thousand million",
+    "meaningTh": "หนึ่งพันล้าน",
+    "example": "The company made a billion dollars."
+  },
+  {
+    "word": "bin",
+    "pos": "noun",
+    "meaningEn": "a container for rubbish",
+    "meaningTh": "ถังขยะ",
+    "example": "Throw it in the bin."
+  },
+  {
+    "word": "biology",
+    "pos": "noun",
+    "meaningEn": "the study of living things",
+    "meaningTh": "ชีววิทยา",
+    "example": "She studies biology."
+  },
+  {
+    "word": "birth",
+    "pos": "noun",
+    "meaningEn": "the time when a baby is born",
+    "meaningTh": "การเกิด",
+    "example": "The baby’s birth was in May."
+  },
+  {
+    "word": "biscuit",
+    "pos": "noun",
+    "meaningEn": "a small baked sweet food",
+    "meaningTh": "บิสกิต",
+    "example": "She ate a chocolate biscuit."
+  },
+  {
+    "word": "bit",
+    "pos": "noun",
+    "meaningEn": "a small piece or amount",
+    "meaningTh": "เล็กน้อย",
+    "example": "I need a bit of help."
+  },
+  {
+    "word": "blank",
+    "pos": "adjective, noun",
+    "meaningEn": "empty; a space to fill in",
+    "meaningTh": "ว่างเปล่า",
+    "example": "Write your name in the blank."
+  },
+  {
+    "word": "blood",
+    "pos": "noun",
+    "meaningEn": "the red liquid in the body",
+    "meaningTh": "เลือด",
+    "example": "There was blood on his hand."
+  },
+  {
+    "word": "blow",
+    "pos": "verb",
+    "meaningEn": "to move air",
+    "meaningTh": "พัด",
+    "example": "The wind blows strongly."
+  },
+  {
+    "word": "board",
+    "pos": "noun",
+    "meaningEn": "a flat piece of wood; a group of directors",
+    "meaningTh": "กระดาน",
+    "example": "Write it on the board."
+  },
+  {
+    "word": "boil",
+    "pos": "verb",
+    "meaningEn": "to heat until bubbles form",
+    "meaningTh": "ต้ม",
+    "example": "Boil the water."
+  },
+  {
+    "word": "bone",
+    "pos": "noun",
+    "meaningEn": "a hard part inside the body",
+    "meaningTh": "กระดูก",
+    "example": "He broke a bone."
+  },
+  {
+    "word": "book",
+    "pos": "verb",
+    "meaningEn": "to reserve something",
+    "meaningTh": "จอง",
+    "example": "I booked a hotel room."
+  },
+  {
+    "word": "borrow",
+    "pos": "verb",
+    "meaningEn": "to take something and return it later",
+    "meaningTh": "ยืม",
+    "example": "Can I borrow your pen?"
+  },
+  {
+    "word": "boss",
+    "pos": "noun",
+    "meaningEn": "a person in charge at work",
+    "meaningTh": "หัวหน้า",
+    "example": "My boss is very kind."
+  },
+  {
+    "word": "bottom",
+    "pos": "noun, adjective",
+    "meaningEn": "the lowest part",
+    "meaningTh": "ด้านล่าง",
+    "example": "The keys are at the bottom of the bag."
+  },
+  {
+    "word": "bowl",
+    "pos": "noun",
+    "meaningEn": "a round container for food",
+    "meaningTh": "ชาม",
+    "example": "She ate soup from a bowl."
+  },
+  {
+    "word": "brain",
+    "pos": "noun",
+    "meaningEn": "the organ used for thinking",
+    "meaningTh": "สมอง",
+    "example": "The brain controls the body."
+  },
+  {
+    "word": "bridge",
+    "pos": "noun",
+    "meaningEn": "a structure over a river or road",
+    "meaningTh": "สะพาน",
+    "example": "They crossed the bridge."
+  },
+  {
+    "word": "bright",
+    "pos": "adjective",
+    "meaningEn": "full of light; intelligent",
+    "meaningTh": "สว่าง / ฉลาด",
+    "example": "She is a bright student."
+  },
+  {
+    "word": "brilliant",
+    "pos": "adjective",
+    "meaningEn": "very clever or very good",
+    "meaningTh": "ยอดเยี่ยม / ฉลาดมาก",
+    "example": "She had a brilliant idea."
+  },
+  {
+    "word": "broken",
+    "pos": "adjective",
+    "meaningEn": "damaged and not working",
+    "meaningTh": "เสีย / แตก",
+    "example": "My phone is broken."
+  },
+  {
+    "word": "brush",
+    "pos": "verb, noun",
+    "meaningEn": "to clean with a brush; a tool with bristles",
+    "meaningTh": "แปรง / แปรงฟัน",
+    "example": "Brush your teeth twice a day."
+  },
+  {
+    "word": "burn",
+    "pos": "verb",
+    "meaningEn": "to be on fire or to damage by fire",
+    "meaningTh": "เผาไหม้",
+    "example": "Be careful not to burn the food."
+  },
+  {
+    "word": "businessman",
+    "pos": "noun",
+    "meaningEn": "a man who works in business",
+    "meaningTh": "นักธุรกิจชาย",
+    "example": "He is a successful businessman."
+  },
+  {
+    "word": "button",
+    "pos": "noun",
+    "meaningEn": "a small object used to fasten clothes or press on a device",
+    "meaningTh": "กระดุม / ปุ่ม",
+    "example": "Press the red button."
+  },
+  {
+    "word": "camp",
+    "pos": "noun, verb",
+    "meaningEn": "a place where people stay in tents; to stay in a tent",
+    "meaningTh": "ค่าย / ตั้งแคมป์",
+    "example": "We camp by the lake."
+  },
+  {
+    "word": "camping",
+    "pos": "noun",
+    "meaningEn": "the activity of staying in a tent",
+    "meaningTh": "การตั้งแคมป์",
+    "example": "Camping is fun in the summer."
+  },
+  {
+    "word": "can",
+    "pos": "noun",
+    "meaningEn": "a metal container for food or drink",
+    "meaningTh": "กระป๋อง",
+    "example": "Open the can of soup."
+  },
+  {
+    "word": "care",
+    "pos": "noun, verb",
+    "meaningEn": "the process of looking after someone; to feel concerned",
+    "meaningTh": "การดูแล / ใส่ใจ",
+    "example": "She cares about her family."
+  },
+  {
+    "word": "careful",
+    "pos": "adjective",
+    "meaningEn": "avoiding danger or mistakes",
+    "meaningTh": "ระมัดระวัง",
+    "example": "Be careful with that knife."
+  },
+  {
+    "word": "carefully",
+    "pos": "adverb",
+    "meaningEn": "in a careful way",
+    "meaningTh": "อย่างระมัดระวัง",
+    "example": "Listen carefully."
+  },
+  {
+    "word": "carpet",
+    "pos": "noun",
+    "meaningEn": "a thick floor covering",
+    "meaningTh": "พรม",
+    "example": "The carpet is blue."
+  },
+  {
+    "word": "cartoon",
+    "pos": "noun",
+    "meaningEn": "an animated film or drawing",
+    "meaningTh": "การ์ตูน",
+    "example": "Children love cartoons."
+  },
+  {
+    "word": "case",
+    "pos": "noun",
+    "meaningEn": "a situation or example",
+    "meaningTh": "กรณี",
+    "example": "In this case, we should wait."
+  },
+  {
+    "word": "cash",
+    "pos": "noun",
+    "meaningEn": "money in coins or notes",
+    "meaningTh": "เงินสด",
+    "example": "I paid in cash."
+  },
+  {
+    "word": "castle",
+    "pos": "noun",
+    "meaningEn": "a large old building with thick walls",
+    "meaningTh": "ปราสาท",
+    "example": "They visited a medieval castle."
+  },
+  {
+    "word": "catch",
+    "pos": "verb",
+    "meaningEn": "to stop and hold something",
+    "meaningTh": "จับ",
+    "example": "He caught the ball."
+  },
+  {
+    "word": "cause",
+    "pos": "noun, verb",
+    "meaningEn": "a reason for something; to make something happen",
+    "meaningTh": "สาเหตุ / ก่อให้เกิด",
+    "example": "Smoking can cause illness."
+  },
+  {
+    "word": "celebrate",
+    "pos": "verb",
+    "meaningEn": "to do something special for an important event",
+    "meaningTh": "เฉลิมฉลอง",
+    "example": "They celebrated her birthday."
+  },
+  {
+    "word": "celebrity",
+    "pos": "noun",
+    "meaningEn": "a famous person",
+    "meaningTh": "คนดัง",
+    "example": "The restaurant is popular with celebrities."
+  },
+  {
+    "word": "certain",
+    "pos": "adjective",
+    "meaningEn": "sure or confident",
+    "meaningTh": "แน่นอน",
+    "example": "I am certain about that."
+  },
+  {
+    "word": "certainly",
+    "pos": "adverb",
+    "meaningEn": "without doubt",
+    "meaningTh": "อย่างแน่นอน",
+    "example": "I will certainly help you."
+  },
+  {
+    "word": "chance",
+    "pos": "noun",
+    "meaningEn": "a possibility",
+    "meaningTh": "โอกาส",
+    "example": "You have a chance to win."
+  },
+  {
+    "word": "character",
+    "pos": "noun",
+    "meaningEn": "a person in a story",
+    "meaningTh": "ตัวละคร",
+    "example": "She is my favorite character."
+  },
+  {
+    "word": "charity",
+    "pos": "noun",
+    "meaningEn": "an organization that helps people",
+    "meaningTh": "องค์กรการกุศล",
+    "example": "She gave money to charity."
+  },
+  {
+    "word": "chat",
+    "pos": "verb, noun",
+    "meaningEn": "to talk in a friendly way",
+    "meaningTh": "คุย",
+    "example": "We chatted for hours."
+  },
+  {
+    "word": "check",
+    "pos": "noun",
+    "meaningEn": "an examination or test",
+    "meaningTh": "การตรวจสอบ",
+    "example": "The doctor did a health check."
+  },
+  {
+    "word": "chef",
+    "pos": "noun",
+    "meaningEn": "a professional cook",
+    "meaningTh": "พ่อครัว",
+    "example": "The chef prepared a delicious meal."
+  },
+  {
+    "word": "chemistry",
+    "pos": "noun",
+    "meaningEn": "the science of substances",
+    "meaningTh": "เคมี",
+    "example": "She studies chemistry."
+  },
+  {
+    "word": "chip",
+    "pos": "noun",
+    "meaningEn": "a thin piece of potato fried in oil",
+    "meaningTh": "มันฝรั่งทอด",
+    "example": "He ate a bag of chips."
+  },
+  {
+    "word": "choice",
+    "pos": "noun",
+    "meaningEn": "a decision between two or more things",
+    "meaningTh": "ทางเลือก",
+    "example": "It was a difficult choice."
+  },
+  {
+    "word": "church",
+    "pos": "noun",
+    "meaningEn": "a building for Christian worship",
+    "meaningTh": "โบสถ์",
+    "example": "They go to church on Sunday."
+  },
+  {
+    "word": "cigarette",
+    "pos": "noun",
+    "meaningEn": "a small roll of tobacco for smoking",
+    "meaningTh": "บุหรี่",
+    "example": "Smoking cigarettes is unhealthy."
+  },
+  {
+    "word": "circle",
+    "pos": "noun, verb",
+    "meaningEn": "a round shape; to move around something",
+    "meaningTh": "วงกลม / ล้อมรอบ",
+    "example": "Draw a circle."
+  },
+  {
+    "word": "classical",
+    "pos": "adjective",
+    "meaningEn": "related to traditional Western music",
+    "meaningTh": "คลาสสิก",
+    "example": "She enjoys classical music."
+  },
+  {
+    "word": "clear",
+    "pos": "adjective",
+    "meaningEn": "easy to understand; not cloudy",
+    "meaningTh": "ชัดเจน",
+    "example": "The instructions are clear."
+  },
+  {
+    "word": "clearly",
+    "pos": "adverb",
+    "meaningEn": "in a clear way",
+    "meaningTh": "อย่างชัดเจน",
+    "example": "She spoke clearly."
+  },
+  {
+    "word": "clever",
+    "pos": "adjective",
+    "meaningEn": "quick to learn and understand",
+    "meaningTh": "ฉลาด",
+    "example": "He is a clever student."
+  },
+  {
+    "word": "climate",
+    "pos": "noun",
+    "meaningEn": "the usual weather conditions of a place",
+    "meaningTh": "สภาพภูมิอากาศ",
+    "example": "Thailand has a hot climate."
+  },
+  {
+    "word": "close",
+    "pos": "adjective",
+    "meaningEn": "near in distance or relationship",
+    "meaningTh": "ใกล้ / สนิท",
+    "example": "They are close friends."
+  },
+  {
+    "word": "closed",
+    "pos": "adjective",
+    "meaningEn": "not open",
+    "meaningTh": "ปิด",
+    "example": "The shop is closed today."
+  },
+  {
+    "word": "clothing",
+    "pos": "noun",
+    "meaningEn": "things that people wear",
+    "meaningTh": "เสื้อผ้า",
+    "example": "Winter clothing is expensive."
+  },
+  {
+    "word": "cloud",
+    "pos": "noun",
+    "meaningEn": "a white or grey mass in the sky",
+    "meaningTh": "เมฆ",
+    "example": "There are dark clouds in the sky."
+  },
+  {
+    "word": "coach",
+    "pos": "noun",
+    "meaningEn": "a person who trains a sports team",
+    "meaningTh": "โค้ช",
+    "example": "The coach gave advice to the players."
+  },
+  {
+    "word": "coast",
+    "pos": "noun",
+    "meaningEn": "the land next to the sea",
+    "meaningTh": "ชายฝั่ง",
+    "example": "They live near the coast."
+  },
+  {
+    "word": "code",
+    "pos": "noun",
+    "meaningEn": "a system of symbols or rules",
+    "meaningTh": "รหัส / โค้ด",
+    "example": "Enter the security code."
+  },
+  {
+    "word": "colleague",
+    "pos": "noun",
+    "meaningEn": "a person you work with",
+    "meaningTh": "เพื่อนร่วมงาน",
+    "example": "She is my colleague at work."
+  },
+  {
+    "word": "collect",
+    "pos": "verb",
+    "meaningEn": "to bring things together",
+    "meaningTh": "รวบรวม",
+    "example": "He collects stamps."
+  },
+  {
+    "word": "column",
+    "pos": "noun",
+    "meaningEn": "a vertical line of words or numbers",
+    "meaningTh": "คอลัมน์",
+    "example": "Write your name in this column."
+  },
+  {
+    "word": "comedy",
+    "pos": "noun",
+    "meaningEn": "a funny film, play, or show",
+    "meaningTh": "ตลก / หนังตลก",
+    "example": "We watched a comedy last night."
+  },
+  {
+    "word": "comfortable",
+    "pos": "adjective",
+    "meaningEn": "feeling relaxed and without pain",
+    "meaningTh": "สบาย",
+    "example": "This chair is very comfortable."
+  },
+  {
+    "word": "comment",
+    "pos": "noun",
+    "meaningEn": "something you say to express an opinion",
+    "meaningTh": "ความคิดเห็น",
+    "example": "She made a helpful comment."
+  },
+  {
+    "word": "communicate",
+    "pos": "verb",
+    "meaningEn": "to share information with others",
+    "meaningTh": "สื่อสาร",
+    "example": "We communicate by email."
+  },
+  {
+    "word": "community",
+    "pos": "noun",
+    "meaningEn": "people living in the same area",
+    "meaningTh": "ชุมชน",
+    "example": "The community works together."
+  },
+  {
+    "word": "compete",
+    "pos": "verb",
+    "meaningEn": "to try to win against others",
+    "meaningTh": "แข่งขัน",
+    "example": "They compete in a football match."
+  },
+  {
+    "word": "competition",
+    "pos": "noun",
+    "meaningEn": "an event where people try to win",
+    "meaningTh": "การแข่งขัน",
+    "example": "She won the singing competition."
+  },
+  {
+    "word": "complain",
+    "pos": "verb",
+    "meaningEn": "to say you are not satisfied",
+    "meaningTh": "บ่น / ร้องเรียน",
+    "example": "He complained about the noise."
+  },
+  {
+    "word": "completely",
+    "pos": "adverb",
+    "meaningEn": "in every way; totally",
+    "meaningTh": "อย่างสมบูรณ์",
+    "example": "I completely agree."
+  },
+  {
+    "word": "condition",
+    "pos": "noun",
+    "meaningEn": "the state of something",
+    "meaningTh": "สภาพ",
+    "example": "The car is in good condition."
+  },
+  {
+    "word": "conference",
+    "pos": "noun",
+    "meaningEn": "a formal meeting for discussion",
+    "meaningTh": "การประชุม",
+    "example": "She attended a business conference."
+  },
+  {
+    "word": "connect",
+    "pos": "verb",
+    "meaningEn": "to join together",
+    "meaningTh": "เชื่อมต่อ",
+    "example": "Connect the cable to the computer."
+  },
+  {
+    "word": "connected",
+    "pos": "adjective",
+    "meaningEn": "joined or related",
+    "meaningTh": "เชื่อมโยง",
+    "example": "The two problems are connected."
+  },
+  {
+    "word": "consider",
+    "pos": "verb",
+    "meaningEn": "to think carefully about something",
+    "meaningTh": "พิจารณา",
+    "example": "Please consider my idea."
+  },
+  {
+    "word": "contain",
+    "pos": "verb",
+    "meaningEn": "to have something inside",
+    "meaningTh": "บรรจุ / มี",
+    "example": "This box contains books."
+  },
+  {
+    "word": "context",
+    "pos": "noun",
+    "meaningEn": "the situation in which something happens",
+    "meaningTh": "บริบท",
+    "example": "You must understand the context."
+  },
+  {
+    "word": "continent",
+    "pos": "noun",
+    "meaningEn": "one of the seven large land areas of the world",
+    "meaningTh": "ทวีป",
+    "example": "Asia is the largest continent."
+  },
+  {
+    "word": "continue",
+    "pos": "verb",
+    "meaningEn": "to keep happening",
+    "meaningTh": "ดำเนินต่อ",
+    "example": "Please continue your work."
+  },
+  {
+    "word": "control",
+    "pos": "noun",
+    "meaningEn": "the power to direct something",
+    "meaningTh": "การควบคุม",
+    "example": "He has control of the situation."
+  },
+  {
+    "word": "cook",
+    "pos": "noun",
+    "meaningEn": "a person who prepares food",
+    "meaningTh": "พ่อครัว / แม่ครัว",
+    "example": "He is a good cook."
+  },
+  {
+    "word": "cooker",
+    "pos": "noun",
+    "meaningEn": "a device used for cooking",
+    "meaningTh": "เตาทำอาหาร",
+    "example": "The cooker is in the kitchen."
+  },
+  {
+    "word": "copy",
+    "pos": "noun, verb",
+    "meaningEn": "something made to look the same; to make something the same",
+    "meaningTh": "สำเนา / คัดลอก",
+    "example": "Please copy the text."
+  },
+  {
+    "word": "corner",
+    "pos": "noun",
+    "meaningEn": "the place where two lines or walls meet",
+    "meaningTh": "มุม",
+    "example": "The shop is on the corner."
+  },
+  {
+    "word": "correctly",
+    "pos": "adverb",
+    "meaningEn": "in a correct way",
+    "meaningTh": "อย่างถูกต้อง",
+    "example": "She answered correctly."
+  },
+  {
+    "word": "count",
+    "pos": "verb",
+    "meaningEn": "to say numbers in order",
+    "meaningTh": "นับ",
+    "example": "Count from one to ten."
+  },
+  {
+    "word": "couple",
+    "pos": "noun",
+    "meaningEn": "two people or things",
+    "meaningTh": "คู่ / สองคน",
+    "example": "A couple sat at the table."
+  },
+  {
+    "word": "cover",
+    "pos": "verb",
+    "meaningEn": "to put something over something else",
+    "meaningTh": "ปกคลุม",
+    "example": "Cover the food."
+  },
+  {
+    "word": "crazy",
+    "pos": "adjective",
+    "meaningEn": "not sensible; very enthusiastic",
+    "meaningTh": "บ้า / คลั่ง",
+    "example": "He is crazy about football."
+  },
+  {
+    "word": "creative",
+    "pos": "adjective",
+    "meaningEn": "having good imagination",
+    "meaningTh": "สร้างสรรค์",
+    "example": "She is very creative."
+  },
+  {
+    "word": "credit",
+    "pos": "noun",
+    "meaningEn": "praise or money borrowed",
+    "meaningTh": "เครดิต / คำชม",
+    "example": "She received credit for her work."
+  },
+  {
+    "word": "crime",
+    "pos": "noun",
+    "meaningEn": "an illegal act",
+    "meaningTh": "อาชญากรรม",
+    "example": "Crime is increasing."
+  },
+  {
+    "word": "criminal",
+    "pos": "noun",
+    "meaningEn": "a person who commits a crime",
+    "meaningTh": "อาชญากร",
+    "example": "The criminal was arrested."
+  },
+  {
+    "word": "cross",
+    "pos": "verb, noun",
+    "meaningEn": "to go from one side to another; a mark like X",
+    "meaningTh": "ข้าม / เครื่องหมายกากบาท",
+    "example": "Cross the road carefully."
+  },
+  {
+    "word": "crowd",
+    "pos": "noun",
+    "meaningEn": "a large group of people",
+    "meaningTh": "ฝูงชน",
+    "example": "A crowd gathered outside."
+  },
+  {
+    "word": "crowded",
+    "pos": "adjective",
+    "meaningEn": "full of people",
+    "meaningTh": "แออัด",
+    "example": "The bus was crowded."
+  },
+  {
+    "word": "cry",
+    "pos": "verb",
+    "meaningEn": "to produce tears",
+    "meaningTh": "ร้องไห้",
+    "example": "The baby began to cry."
+  },
+  {
+    "word": "cupboard",
+    "pos": "noun",
+    "meaningEn": "a piece of furniture for storing things",
+    "meaningTh": "ตู้เก็บของ",
+    "example": "The plates are in the cupboard."
+  },
+  {
+    "word": "curly",
+    "pos": "adjective",
+    "meaningEn": "having curls",
+    "meaningTh": "หยิก",
+    "example": "She has curly hair."
+  },
+  {
+    "word": "cycle",
+    "pos": "noun, verb",
+    "meaningEn": "a bicycle; to ride a bicycle",
+    "meaningTh": "จักรยาน / ปั่นจักรยาน",
+    "example": "He cycles to school."
+  },
+  {
+    "word": "daily",
+    "pos": "adjective",
+    "meaningEn": "happening every day",
+    "meaningTh": "รายวัน",
+    "example": "She reads the daily news."
+  },
+  {
+    "word": "danger",
+    "pos": "noun",
+    "meaningEn": "the possibility of harm",
+    "meaningTh": "อันตราย",
+    "example": "The sign says 'Danger'."
+  },
+  {
+    "word": "dark",
+    "pos": "noun",
+    "meaningEn": "the absence of light",
+    "meaningTh": "ความมืด",
+    "example": "He is afraid of the dark."
+  },
+  {
+    "word": "data",
+    "pos": "noun",
+    "meaningEn": "information, especially facts or numbers",
+    "meaningTh": "ข้อมูล",
+    "example": "The data shows good results."
+  },
+  {
+    "word": "dead",
+    "pos": "adjective",
+    "meaningEn": "not alive",
+    "meaningTh": "ตาย",
+    "example": "The plant is dead."
+  },
+  {
+    "word": "deal",
+    "pos": "verb",
+    "meaningEn": "to take action or do business",
+    "meaningTh": "จัดการ",
+    "example": "He deals with customers."
+  },
+  {
+    "word": "dear",
+    "pos": "exclamation",
+    "meaningEn": "used to show surprise",
+    "meaningTh": "โอ้ / โอ้โห",
+    "example": "Oh dear! I forgot my keys."
+  },
+  {
+    "word": "death",
+    "pos": "noun",
+    "meaningEn": "the end of life",
+    "meaningTh": "ความตาย",
+    "example": "The story is about life and death."
+  },
+  {
+    "word": "decision",
+    "pos": "noun",
+    "meaningEn": "a choice made after thinking",
+    "meaningTh": "การตัดสินใจ",
+    "example": "It was a difficult decision."
+  },
+  {
+    "word": "deep",
+    "pos": "adjective",
+    "meaningEn": "going far down",
+    "meaningTh": "ลึก",
+    "example": "The water is very deep."
+  },
+  {
+    "word": "definitely",
+    "pos": "adverb",
+    "meaningEn": "without doubt",
+    "meaningTh": "อย่างแน่นอน",
+    "example": "I will definitely come."
+  },
+  {
+    "word": "degree",
+    "pos": "noun",
+    "meaningEn": "a university qualification or unit of temperature",
+    "meaningTh": "ปริญญา / องศา",
+    "example": "She has a degree in science."
+  },
+  {
+    "word": "dentist",
+    "pos": "noun",
+    "meaningEn": "a doctor for teeth",
+    "meaningTh": "ทันตแพทย์",
+    "example": "I visited the dentist."
+  },
+  {
+    "word": "department",
+    "pos": "noun",
+    "meaningEn": "a section of an organization",
+    "meaningTh": "แผนก",
+    "example": "She works in the sales department."
+  },
+  {
+    "word": "depend",
+    "pos": "verb",
+    "meaningEn": "to need someone or something",
+    "meaningTh": "พึ่งพา",
+    "example": "Children depend on their parents."
+  },
+  {
+    "word": "desert",
+    "pos": "noun",
+    "meaningEn": "a very dry area of land",
+    "meaningTh": "ทะเลทราย",
+    "example": "The Sahara is a desert."
+  },
+  {
+    "word": "designer",
+    "pos": "noun",
+    "meaningEn": "a person who designs things",
+    "meaningTh": "นักออกแบบ",
+    "example": "She is a fashion designer."
+  },
+  {
+    "word": "destroy",
+    "pos": "verb",
+    "meaningEn": "to damage completely",
+    "meaningTh": "ทำลาย",
+    "example": "The fire destroyed the house."
+  },
+  {
+    "word": "detective",
+    "pos": "noun",
+    "meaningEn": "a person who investigates crimes",
+    "meaningTh": "นักสืบ",
+    "example": "The detective solved the case."
+  },
+  {
+    "word": "develop",
+    "pos": "verb",
+    "meaningEn": "to grow or improve",
+    "meaningTh": "พัฒนา",
+    "example": "She wants to develop her skills."
+  },
+  {
+    "word": "device",
+    "pos": "noun",
+    "meaningEn": "a piece of equipment made for a purpose",
+    "meaningTh": "อุปกรณ์",
+    "example": "This device saves energy."
+  },
+  {
+    "word": "diary",
+    "pos": "noun",
+    "meaningEn": "a book for writing daily events",
+    "meaningTh": "ไดอารี่",
+    "example": "She writes in her diary."
+  },
+  {
+    "word": "differently",
+    "pos": "adverb",
+    "meaningEn": "in a different way",
+    "meaningTh": "อย่างแตกต่าง",
+    "example": "Think differently."
+  },
+  {
+    "word": "digital",
+    "pos": "adjective",
+    "meaningEn": "using electronic signals",
+    "meaningTh": "ดิจิทัล",
+    "example": "Digital cameras are popular."
+  },
+  {
+    "word": "direct",
+    "pos": "adjective",
+    "meaningEn": "straight; without stopping",
+    "meaningTh": "โดยตรง",
+    "example": "This is a direct flight."
+  },
+  {
+    "word": "direction",
+    "pos": "noun",
+    "meaningEn": "instructions about how to get somewhere",
+    "meaningTh": "ทิศทาง / คำแนะนำ",
+    "example": "Can you give me directions?"
+  },
+  {
+    "word": "director",
+    "pos": "noun",
+    "meaningEn": "a person who manages or leads",
+    "meaningTh": "ผู้อำนวยการ",
+    "example": "She is the company director."
+  },
+  {
+    "word": "disagree",
+    "pos": "verb",
+    "meaningEn": "to have a different opinion",
+    "meaningTh": "ไม่เห็นด้วย",
+    "example": "I disagree with you."
+  },
+  {
+    "word": "disappear",
+    "pos": "verb",
+    "meaningEn": "to go out of sight",
+    "meaningTh": "หายไป",
+    "example": "The sun disappeared behind the clouds."
+  },
+  {
+    "word": "disaster",
+    "pos": "noun",
+    "meaningEn": "a very bad event",
+    "meaningTh": "ภัยพิบัติ",
+    "example": "The flood was a disaster."
+  },
+  {
+    "word": "discover",
+    "pos": "verb",
+    "meaningEn": "to find something new",
+    "meaningTh": "ค้นพบ",
+    "example": "They discovered a new planet."
+  },
+  {
+    "word": "discovery",
+    "pos": "noun",
+    "meaningEn": "the act of discovering something",
+    "meaningTh": "การค้นพบ",
+    "example": "The discovery changed science."
+  },
+  {
+    "word": "discussion",
+    "pos": "noun",
+    "meaningEn": "a conversation about something",
+    "meaningTh": "การอภิปราย",
+    "example": "We had a discussion about the problem."
+  },
+  {
+    "word": "disease",
+    "pos": "noun",
+    "meaningEn": "an illness",
+    "meaningTh": "โรค",
+    "example": "The disease spread quickly."
+  },
+  {
+    "word": "distance",
+    "pos": "noun",
+    "meaningEn": "the amount of space between two places",
+    "meaningTh": "ระยะทาง",
+    "example": "The distance is 10 kilometers."
+  },
+  {
+    "word": "divorced",
+    "pos": "adjective",
+    "meaningEn": "no longer married",
+    "meaningTh": "หย่าร้าง",
+    "example": "They are divorced."
+  },
+  {
+    "word": "document",
+    "pos": "noun",
+    "meaningEn": "an official paper with information",
+    "meaningTh": "เอกสาร",
+    "example": "Sign the document."
+  },
+  {
+    "word": "double",
+    "pos": "adjective, determiner, pronoun, verb",
+    "meaningEn": "twice as much; to become twice as much",
+    "meaningTh": "สองเท่า / เพิ่มเป็นสองเท่า",
+    "example": "The price doubled."
+  },
+  {
+    "word": "download",
+    "pos": "verb, noun",
+    "meaningEn": "to copy data from the internet",
+    "meaningTh": "ดาวน์โหลด",
+    "example": "Download the app."
+  },
+  {
+    "word": "downstairs",
+    "pos": "adjective",
+    "meaningEn": "on a lower floor",
+    "meaningTh": "ชั้นล่าง",
+    "example": "The kitchen is downstairs."
+  },
+  {
+    "word": "drama",
+    "pos": "noun",
+    "meaningEn": "a serious play or film",
+    "meaningTh": "ละคร",
+    "example": "She enjoys watching drama."
+  },
+  {
+    "word": "drawing",
+    "pos": "noun",
+    "meaningEn": "a picture made with a pencil or pen",
+    "meaningTh": "ภาพวาด",
+    "example": "Her drawing is beautiful."
+  },
+  {
+    "word": "dream",
+    "pos": "noun, verb",
+    "meaningEn": "images during sleep; to imagine while sleeping",
+    "meaningTh": "ความฝัน / ฝัน",
+    "example": "I had a strange dream."
+  },
+  {
+    "word": "drive",
+    "pos": "noun",
+    "meaningEn": "a journey by car",
+    "meaningTh": "การขับรถ",
+    "example": "It was a long drive."
+  },
+  {
+    "word": "driving",
+    "pos": "noun",
+    "meaningEn": "the act of controlling a vehicle",
+    "meaningTh": "การขับรถ",
+    "example": "Driving requires attention."
+  },
+  {
+    "word": "drop",
+    "pos": "verb",
+    "meaningEn": "to let something fall",
+    "meaningTh": "ทำตก",
+    "example": "She dropped her phone."
+  },
+  {
+    "word": "drug",
+    "pos": "noun",
+    "meaningEn": "a medicine or illegal substance",
+    "meaningTh": "ยา",
+    "example": "This drug helps patients."
+  },
+  {
+    "word": "dry",
+    "pos": "adjective, verb",
+    "meaningEn": "not wet; to remove water",
+    "meaningTh": "แห้ง / ทำให้แห้ง",
+    "example": "Hang the clothes to dry."
+  },
+  {
+    "word": "earn",
+    "pos": "verb",
+    "meaningEn": "to get money for work",
+    "meaningTh": "หารายได้",
+    "example": "She earns a good salary."
+  },
+  {
+    "word": "earth",
+    "pos": "noun",
+    "meaningEn": "the planet we live on",
+    "meaningTh": "โลก",
+    "example": "The Earth goes around the sun."
+  },
+  {
+    "word": "easily",
+    "pos": "adverb",
+    "meaningEn": "without difficulty",
+    "meaningTh": "อย่างง่ายดาย",
+    "example": "She can solve the problem easily."
+  },
+  {
+    "word": "education",
+    "pos": "noun",
+    "meaningEn": "the process of learning at school or university",
+    "meaningTh": "การศึกษา",
+    "example": "Education is important for everyone."
+  },
+  {
+    "word": "effect",
+    "pos": "noun",
+    "meaningEn": "a result of something",
+    "meaningTh": "ผลกระทบ / ผลลัพธ์",
+    "example": "The medicine had a good effect."
+  },
+  {
+    "word": "either",
+    "pos": "determiner, pronoun, adverb",
+    "meaningEn": "one or the other of two",
+    "meaningTh": "อย่างใดอย่างหนึ่ง",
+    "example": "You can choose either option."
+  },
+  {
+    "word": "electric",
+    "pos": "adjective",
+    "meaningEn": "using electricity",
+    "meaningTh": "ที่ใช้ไฟฟ้า",
+    "example": "This car is electric."
+  },
+  {
+    "word": "electrical",
+    "pos": "adjective",
+    "meaningEn": "related to electricity",
+    "meaningTh": "เกี่ยวกับไฟฟ้า",
+    "example": "Electrical equipment can be dangerous."
+  },
+  {
+    "word": "electricity",
+    "pos": "noun",
+    "meaningEn": "power used for lighting and machines",
+    "meaningTh": "ไฟฟ้า",
+    "example": "The electricity went off."
+  },
+  {
+    "word": "electronic",
+    "pos": "adjective",
+    "meaningEn": "using electronic technology",
+    "meaningTh": "อิเล็กทรอนิกส์",
+    "example": "Electronic devices are common today."
+  },
+  {
+    "word": "employ",
+    "pos": "verb",
+    "meaningEn": "to give someone a job",
+    "meaningTh": "จ้างงาน",
+    "example": "The company employs 100 people."
+  },
+  {
+    "word": "employee",
+    "pos": "noun",
+    "meaningEn": "a person who works for someone",
+    "meaningTh": "พนักงาน",
+    "example": "She is a company employee."
+  },
+  {
+    "word": "employer",
+    "pos": "noun",
+    "meaningEn": "a person or company that gives jobs",
+    "meaningTh": "นายจ้าง",
+    "example": "Her employer is very kind."
+  },
+  {
+    "word": "empty",
+    "pos": "adjective",
+    "meaningEn": "with nothing inside",
+    "meaningTh": "ว่างเปล่า",
+    "example": "The box is empty."
+  },
+  {
+    "word": "ending",
+    "pos": "noun",
+    "meaningEn": "the final part of something",
+    "meaningTh": "ตอนจบ",
+    "example": "The movie had a happy ending."
+  },
+  {
+    "word": "energy",
+    "pos": "noun",
+    "meaningEn": "power to do things",
+    "meaningTh": "พลังงาน",
+    "example": "She has lots of energy."
+  },
+  {
+    "word": "engine",
+    "pos": "noun",
+    "meaningEn": "a machine that makes something move",
+    "meaningTh": "เครื่องยนต์",
+    "example": "The car engine is noisy."
+  },
+  {
+    "word": "engineer",
+    "pos": "noun",
+    "meaningEn": "a person who designs or builds machines",
+    "meaningTh": "วิศวกร",
+    "example": "He is an engineer."
+  },
+  {
+    "word": "enormous",
+    "pos": "adjective",
+    "meaningEn": "very large",
+    "meaningTh": "มหึมา",
+    "example": "They live in an enormous house."
+  },
+  {
+    "word": "enter",
+    "pos": "verb",
+    "meaningEn": "to go into a place",
+    "meaningTh": "เข้า",
+    "example": "Do not enter this room."
+  },
+  {
+    "word": "environment",
+    "pos": "noun",
+    "meaningEn": "the natural world around us",
+    "meaningTh": "สิ่งแวดล้อม",
+    "example": "We must protect the environment."
+  },
+  {
+    "word": "equipment",
+    "pos": "noun",
+    "meaningEn": "tools or machines used for a purpose",
+    "meaningTh": "อุปกรณ์",
+    "example": "The gym has modern equipment."
+  },
+  {
+    "word": "error",
+    "pos": "noun",
+    "meaningEn": "a mistake",
+    "meaningTh": "ข้อผิดพลาด",
+    "example": "There is an error in the report."
+  },
+  {
+    "word": "especially",
+    "pos": "adverb",
+    "meaningEn": "more than usual",
+    "meaningTh": "โดยเฉพาะ",
+    "example": "I like fruit, especially mangoes."
+  },
+  {
+    "word": "essay",
+    "pos": "noun",
+    "meaningEn": "a short piece of writing",
+    "meaningTh": "เรียงความ",
+    "example": "She wrote an essay about travel."
+  },
+  {
+    "word": "everyday",
+    "pos": "adjective",
+    "meaningEn": "happening daily; normal",
+    "meaningTh": "ในชีวิตประจำวัน",
+    "example": "These are everyday clothes."
+  },
+  {
+    "word": "everywhere",
+    "pos": "adverb",
+    "meaningEn": "in all places",
+    "meaningTh": "ทุกที่",
+    "example": "I looked everywhere."
+  },
+  {
+    "word": "evidence",
+    "pos": "noun",
+    "meaningEn": "facts that show something is true",
+    "meaningTh": "หลักฐาน",
+    "example": "There is no evidence."
+  },
+  {
+    "word": "exact",
+    "pos": "adjective",
+    "meaningEn": "completely correct",
+    "meaningTh": "แม่นยำ",
+    "example": "Tell me the exact time."
+  },
+  {
+    "word": "exactly",
+    "pos": "adverb",
+    "meaningEn": "in an exact way",
+    "meaningTh": "อย่างแม่นยำ",
+    "example": "That is exactly right."
+  },
+  {
+    "word": "excellent",
+    "pos": "adjective",
+    "meaningEn": "extremely good",
+    "meaningTh": "ยอดเยี่ยม",
+    "example": "She did an excellent job."
+  },
+  {
+    "word": "except",
+    "pos": "preposition",
+    "meaningEn": "not including",
+    "meaningTh": "ยกเว้น",
+    "example": "Everyone came except John."
+  },
+  {
+    "word": "exist",
+    "pos": "verb",
+    "meaningEn": "to be real",
+    "meaningTh": "มีอยู่",
+    "example": "Do aliens exist?"
+  },
+  {
+    "word": "expect",
+    "pos": "verb",
+    "meaningEn": "to think something will happen",
+    "meaningTh": "คาดหวัง",
+    "example": "I expect good results."
+  },
+  {
+    "word": "experience",
+    "pos": "noun",
+    "meaningEn": "knowledge gained by doing something",
+    "meaningTh": "ประสบการณ์",
+    "example": "She has teaching experience."
+  },
+  {
+    "word": "experiment",
+    "pos": "noun",
+    "meaningEn": "a scientific test",
+    "meaningTh": "การทดลอง",
+    "example": "They did an experiment."
+  },
+  {
+    "word": "expert",
+    "pos": "noun, adjective",
+    "meaningEn": "a person with special skill; very skilled",
+    "meaningTh": "ผู้เชี่ยวชาญ",
+    "example": "She is an expert in math."
+  },
+  {
+    "word": "explanation",
+    "pos": "noun",
+    "meaningEn": "a reason or description that makes something clear",
+    "meaningTh": "คำอธิบาย",
+    "example": "He gave an explanation."
+  },
+  {
+    "word": "express",
+    "pos": "verb",
+    "meaningEn": "to show feelings or ideas",
+    "meaningTh": "แสดงออก",
+    "example": "She expressed her opinion."
+  },
+  {
+    "word": "expression",
+    "pos": "noun",
+    "meaningEn": "the look on someone’s face",
+    "meaningTh": "สีหน้า / การแสดงออก",
+    "example": "His expression was serious."
+  },
+  {
+    "word": "extreme",
+    "pos": "adjective",
+    "meaningEn": "very great",
+    "meaningTh": "สุดขีด",
+    "example": "The weather is extreme."
+  },
+  {
+    "word": "extremely",
+    "pos": "adverb",
+    "meaningEn": "very",
+    "meaningTh": "อย่างมาก",
+    "example": "She is extremely happy."
+  },
+  {
+    "word": "factor",
+    "pos": "noun",
+    "meaningEn": "one of several reasons",
+    "meaningTh": "ปัจจัย",
+    "example": "Cost is an important factor."
+  },
+  {
+    "word": "factory",
+    "pos": "noun",
+    "meaningEn": "a building where goods are made",
+    "meaningTh": "โรงงาน",
+    "example": "He works in a factory."
+  },
+  {
+    "word": "fail",
+    "pos": "verb",
+    "meaningEn": "to not succeed",
+    "meaningTh": "ล้มเหลว",
+    "example": "She failed the exam."
+  },
+  {
+    "word": "fair",
+    "pos": "adjective",
+    "meaningEn": "treating people equally",
+    "meaningTh": "ยุติธรรม",
+    "example": "That is a fair decision."
+  },
+  {
+    "word": "fall",
+    "pos": "noun",
+    "meaningEn": "an act of falling",
+    "meaningTh": "การตก",
+    "example": "He had a bad fall."
+  },
+  {
+    "word": "fan",
+    "pos": "noun",
+    "meaningEn": "a person who likes something very much",
+    "meaningTh": "แฟนคลับ",
+    "example": "She is a football fan."
+  },
+  {
+    "word": "farm",
+    "pos": "verb",
+    "meaningEn": "to grow crops or keep animals",
+    "meaningTh": "ทำฟาร์ม",
+    "example": "They farm rice."
+  },
+  {
+    "word": "farming",
+    "pos": "noun",
+    "meaningEn": "the activity of growing crops",
+    "meaningTh": "การทำเกษตร",
+    "example": "Farming is hard work."
+  },
+  {
+    "word": "fashion",
+    "pos": "noun",
+    "meaningEn": "popular style of clothes",
+    "meaningTh": "แฟชั่น",
+    "example": "She loves fashion."
+  },
+  {
+    "word": "fat",
+    "pos": "noun",
+    "meaningEn": "a natural oily substance in the body",
+    "meaningTh": "ไขมัน",
+    "example": "This food contains fat."
+  },
+  {
+    "word": "fear",
+    "pos": "noun",
+    "meaningEn": "a feeling of being afraid",
+    "meaningTh": "ความกลัว",
+    "example": "He felt fear."
+  },
+  {
+    "word": "feature",
+    "pos": "noun",
+    "meaningEn": "an important part of something",
+    "meaningTh": "คุณลักษณะ",
+    "example": "This phone has many features."
+  },
+  {
+    "word": "feed",
+    "pos": "verb",
+    "meaningEn": "to give food to someone or something",
+    "meaningTh": "ให้อาหาร",
+    "example": "Feed the dog."
+  },
+  {
+    "word": "female",
+    "pos": "adjective, noun",
+    "meaningEn": "belonging to the sex that can give birth",
+    "meaningTh": "เพศหญิง",
+    "example": "She is a female athlete."
+  },
+  {
+    "word": "fiction",
+    "pos": "noun",
+    "meaningEn": "stories that are not true",
+    "meaningTh": "เรื่องแต่ง",
+    "example": "He writes fiction."
+  },
+  {
+    "word": "field",
+    "pos": "noun",
+    "meaningEn": "an area of land",
+    "meaningTh": "ทุ่งนา / สนาม",
+    "example": "Children played in the field."
+  },
+  {
+    "word": "fight",
+    "pos": "verb, noun",
+    "meaningEn": "to try to hurt someone; a struggle",
+    "meaningTh": "ต่อสู้",
+    "example": "They had a fight."
+  },
+  {
+    "word": "figure",
+    "pos": "noun",
+    "meaningEn": "a number or shape",
+    "meaningTh": "ตัวเลข / รูปร่าง",
+    "example": "The figure shows results."
+  },
+  {
+    "word": "film",
+    "pos": "verb",
+    "meaningEn": "to record moving images",
+    "meaningTh": "ถ่ายทำ",
+    "example": "They filmed the event."
+  },
+  {
+    "word": "final",
+    "pos": "noun",
+    "meaningEn": "the last game or exam",
+    "meaningTh": "รอบชิง / สอบปลายภาค",
+    "example": "She passed the final."
+  },
+  {
+    "word": "finally",
+    "pos": "adverb",
+    "meaningEn": "after a long time",
+    "meaningTh": "ในที่สุด",
+    "example": "Finally, we arrived."
+  },
+  {
+    "word": "finger",
+    "pos": "noun",
+    "meaningEn": "one of the five parts of a hand",
+    "meaningTh": "นิ้วมือ",
+    "example": "She hurt her finger."
+  },
+  {
+    "word": "finish",
+    "pos": "noun",
+    "meaningEn": "the end of something",
+    "meaningTh": "ตอนจบ",
+    "example": "The race finish was exciting."
+  },
+  {
+    "word": "first",
+    "pos": "noun",
+    "meaningEn": "the person who wins",
+    "meaningTh": "อันดับหนึ่ง",
+    "example": "He came first."
+  },
+  {
+    "word": "firstly",
+    "pos": "adverb",
+    "meaningEn": "used to introduce the first point",
+    "meaningTh": "ประการแรก",
+    "example": "Firstly, we need a plan."
+  },
+  {
+    "word": "fish",
+    "pos": "verb",
+    "meaningEn": "to try to catch fish",
+    "meaningTh": "ตกปลา",
+    "example": "They fish in the river."
+  },
+  {
+    "word": "fishing",
+    "pos": "noun",
+    "meaningEn": "the activity of catching fish",
+    "meaningTh": "การตกปลา",
+    "example": "Fishing is relaxing."
+  },
+  {
+    "word": "fit",
+    "pos": "verb, adjective",
+    "meaningEn": "to be the right size; healthy",
+    "meaningTh": "พอดี / แข็งแรง",
+    "example": "These shoes fit well."
+  },
+  {
+    "word": "fix",
+    "pos": "verb",
+    "meaningEn": "to repair something",
+    "meaningTh": "ซ่อม",
+    "example": "He fixed the bike."
+  },
+  {
+    "word": "flat",
+    "pos": "adjective",
+    "meaningEn": "level and smooth",
+    "meaningTh": "เรียบ / แบน",
+    "example": "The road is flat."
+  },
+  {
+    "word": "flu",
+    "pos": "noun",
+    "meaningEn": "a common illness with fever",
+    "meaningTh": "ไข้หวัดใหญ่",
+    "example": "She has the flu."
+  },
+  {
+    "word": "flying",
+    "pos": "noun, adjective",
+    "meaningEn": "the activity of travelling by air; moving through the air",
+    "meaningTh": "การบิน / ที่กำลังบิน",
+    "example": "Flying is faster than driving."
+  },
+  {
+    "word": "focus",
+    "pos": "verb, noun",
+    "meaningEn": "to give attention to something; the centre of attention",
+    "meaningTh": "จดจ่อ / จุดสำคัญ",
+    "example": "Please focus on your work."
+  },
+  {
+    "word": "following",
+    "pos": "adjective",
+    "meaningEn": "next; coming after",
+    "meaningTh": "ถัดไป",
+    "example": "Answer the following questions."
+  },
+  {
+    "word": "foreign",
+    "pos": "adjective",
+    "meaningEn": "from another country",
+    "meaningTh": "ต่างประเทศ",
+    "example": "She speaks a foreign language."
+  },
+  {
+    "word": "forest",
+    "pos": "noun",
+    "meaningEn": "a large area of trees",
+    "meaningTh": "ป่า",
+    "example": "They walked in the forest."
+  },
+  {
+    "word": "fork",
+    "pos": "noun",
+    "meaningEn": "a tool used for eating",
+    "meaningTh": "ส้อม",
+    "example": "Use a fork to eat."
+  },
+  {
+    "word": "formal",
+    "pos": "adjective",
+    "meaningEn": "serious and official",
+    "meaningTh": "เป็นทางการ",
+    "example": "He wore formal clothes."
+  },
+  {
+    "word": "fortunately",
+    "pos": "adverb",
+    "meaningEn": "luckily",
+    "meaningTh": "โชคดีที่",
+    "example": "Fortunately, no one was hurt."
+  },
+  {
+    "word": "forward",
+    "pos": "adverb",
+    "meaningEn": "towards the front",
+    "meaningTh": "ไปข้างหน้า",
+    "example": "Step forward."
+  },
+  {
+    "word": "free",
+    "pos": "adverb",
+    "meaningEn": "without cost",
+    "meaningTh": "ฟรี",
+    "example": "Children eat free."
+  },
+  {
+    "word": "fresh",
+    "pos": "adjective",
+    "meaningEn": "new or not old",
+    "meaningTh": "สดใหม่",
+    "example": "The bread is fresh."
+  },
+  {
+    "word": "fridge",
+    "pos": "noun",
+    "meaningEn": "a refrigerator",
+    "meaningTh": "ตู้เย็น",
+    "example": "Put the milk in the fridge."
+  },
+  {
+    "word": "frog",
+    "pos": "noun",
+    "meaningEn": "a small animal that jumps",
+    "meaningTh": "กบ",
+    "example": "A frog jumped into the pond."
+  },
+  {
+    "word": "fun",
+    "pos": "adjective",
+    "meaningEn": "enjoyable",
+    "meaningTh": "สนุก",
+    "example": "The party was fun."
+  },
+  {
+    "word": "furniture",
+    "pos": "noun",
+    "meaningEn": "chairs, tables, etc.",
+    "meaningTh": "เฟอร์นิเจอร์",
+    "example": "The room has new furniture."
+  },
+  {
+    "word": "further",
+    "pos": "adjective",
+    "meaningEn": "more; additional",
+    "meaningTh": "เพิ่มเติม",
+    "example": "We need further information."
+  },
+  {
+    "word": "future",
+    "pos": "adjective",
+    "meaningEn": "happening later",
+    "meaningTh": "ในอนาคต",
+    "example": "Think about your future plans."
+  },
+  {
+    "word": "gallery",
+    "pos": "noun",
+    "meaningEn": "a place to show art",
+    "meaningTh": "หอศิลป์",
+    "example": "They visited an art gallery."
+  },
+  {
+    "word": "gap",
+    "pos": "noun",
+    "meaningEn": "an empty space",
+    "meaningTh": "ช่องว่าง",
+    "example": "There is a gap in the wall."
+  },
+  {
+    "word": "gas",
+    "pos": "noun",
+    "meaningEn": "a substance like air",
+    "meaningTh": "แก๊ส",
+    "example": "Turn off the gas."
+  },
+  {
+    "word": "gate",
+    "pos": "noun",
+    "meaningEn": "a door in a fence",
+    "meaningTh": "ประตูรั้ว",
+    "example": "Close the gate."
+  },
+  {
+    "word": "general",
+    "pos": "adjective",
+    "meaningEn": "common; not specific",
+    "meaningTh": "ทั่วไป",
+    "example": "This is general information."
+  },
+  {
+    "word": "gift",
+    "pos": "noun",
+    "meaningEn": "a present",
+    "meaningTh": "ของขวัญ",
+    "example": "She gave me a gift."
+  },
+  {
+    "word": "goal",
+    "pos": "noun",
+    "meaningEn": "something you want to achieve",
+    "meaningTh": "เป้าหมาย",
+    "example": "My goal is to learn English."
+  },
+  {
+    "word": "god",
+    "pos": "noun",
+    "meaningEn": "a supreme being",
+    "meaningTh": "พระเจ้า",
+    "example": "They believe in one god."
+  },
+  {
+    "word": "gold",
+    "pos": "noun, adjective",
+    "meaningEn": "a yellow valuable metal",
+    "meaningTh": "ทอง",
+    "example": "She wore a gold ring."
+  },
+  {
+    "word": "golf",
+    "pos": "noun",
+    "meaningEn": "a sport played with clubs and a ball",
+    "meaningTh": "กอล์ฟ",
+    "example": "He plays golf on weekends."
+  },
+  {
+    "word": "good",
+    "pos": "noun",
+    "meaningEn": "something that is positive or helpful",
+    "meaningTh": "ความดี / สิ่งที่ดี",
+    "example": "She works for the common good."
+  },
+  {
+    "word": "government",
+    "pos": "noun",
+    "meaningEn": "the people who control a country",
+    "meaningTh": "รัฐบาล",
+    "example": "The government made a new law."
+  },
+  {
+    "word": "grass",
+    "pos": "noun",
+    "meaningEn": "green plants in gardens or fields",
+    "meaningTh": "หญ้า",
+    "example": "The grass is wet."
+  },
+  {
+    "word": "greet",
+    "pos": "verb",
+    "meaningEn": "to say hello",
+    "meaningTh": "ทักทาย",
+    "example": "She greeted her teacher."
+  },
+  {
+    "word": "ground",
+    "pos": "noun",
+    "meaningEn": "the surface of the earth",
+    "meaningTh": "พื้นดิน",
+    "example": "The ball fell to the ground."
+  },
+  {
+    "word": "guest",
+    "pos": "noun",
+    "meaningEn": "a person invited somewhere",
+    "meaningTh": "แขก",
+    "example": "We have a guest tonight."
+  },
+  {
+    "word": "guide",
+    "pos": "noun, verb",
+    "meaningEn": "a person who shows the way; to show someone",
+    "meaningTh": "ไกด์ / นำทาง",
+    "example": "The guide showed us around."
+  },
+  {
+    "word": "gun",
+    "pos": "noun",
+    "meaningEn": "a weapon that shoots bullets",
+    "meaningTh": "ปืน",
+    "example": "The police found a gun."
+  },
+  {
+    "word": "guy",
+    "pos": "noun",
+    "meaningEn": "a man",
+    "meaningTh": "ผู้ชาย",
+    "example": "He is a nice guy."
+  },
+  {
+    "word": "habit",
+    "pos": "noun",
+    "meaningEn": "something you do regularly",
+    "meaningTh": "นิสัย",
+    "example": "Reading is a good habit."
+  },
+  {
+    "word": "half",
+    "pos": "adverb",
+    "meaningEn": "partly",
+    "meaningTh": "ครึ่งหนึ่ง",
+    "example": "The glass is half full."
+  },
+  {
+    "word": "hall",
+    "pos": "noun",
+    "meaningEn": "a large room",
+    "meaningTh": "ห้องโถง",
+    "example": "They met in the hall."
+  },
+  {
+    "word": "happily",
+    "pos": "adverb",
+    "meaningEn": "in a happy way",
+    "meaningTh": "อย่างมีความสุข",
+    "example": "She smiled happily."
+  },
+  {
+    "word": "have",
+    "pos": "auxiliary verb",
+    "meaningEn": "used to form perfect tenses",
+    "meaningTh": "กริยาช่วย (have/has/had)",
+    "example": "I have finished."
+  },
+  {
+    "word": "headache",
+    "pos": "noun",
+    "meaningEn": "a pain in the head",
+    "meaningTh": "ปวดหัว",
+    "example": "I have a headache."
+  },
+  {
+    "word": "heart",
+    "pos": "noun",
+    "meaningEn": "the organ that pumps blood",
+    "meaningTh": "หัวใจ",
+    "example": "The heart is important."
+  },
+  {
+    "word": "heat",
+    "pos": "noun, verb",
+    "meaningEn": "high temperature; to make hot",
+    "meaningTh": "ความร้อน / ทำให้ร้อน",
+    "example": "Heat the soup."
+  },
+  {
+    "word": "heavy",
+    "pos": "adjective",
+    "meaningEn": "weighing a lot",
+    "meaningTh": "หนัก",
+    "example": "This bag is heavy."
+  },
+  {
+    "word": "height",
+    "pos": "noun",
+    "meaningEn": "how tall something is",
+    "meaningTh": "ความสูง",
+    "example": "What is your height?"
+  },
+  {
+    "word": "helpful",
+    "pos": "adjective",
+    "meaningEn": "giving help",
+    "meaningTh": "มีประโยชน์",
+    "example": "She is very helpful."
+  },
+  {
+    "word": "hero",
+    "pos": "noun",
+    "meaningEn": "a brave person",
+    "meaningTh": "ฮีโร่",
+    "example": "He became a hero."
+  },
+  {
+    "word": "hers",
+    "pos": "pronoun",
+    "meaningEn": "belonging to her",
+    "meaningTh": "ของเธอ",
+    "example": "The book is hers."
+  },
+  {
+    "word": "herself",
+    "pos": "pronoun",
+    "meaningEn": "used to refer to a woman or girl",
+    "meaningTh": "ตัวเธอเอง",
+    "example": "She did it herself."
+  },
+  {
+    "word": "hide",
+    "pos": "verb",
+    "meaningEn": "to put something where it cannot be seen",
+    "meaningTh": "ซ่อน",
+    "example": "Hide the key."
+  },
+  {
+    "word": "high",
+    "pos": "adverb",
+    "meaningEn": "at or to a great height",
+    "meaningTh": "สูง",
+    "example": "The bird flew high."
+  },
+  {
+    "word": "hill",
+    "pos": "noun",
+    "meaningEn": "a small mountain",
+    "meaningTh": "เนินเขา",
+    "example": "They climbed the hill."
+  },
+  {
+    "word": "himself",
+    "pos": "pronoun",
+    "meaningEn": "used to refer to a man or boy",
+    "meaningTh": "ตัวเขาเอง",
+    "example": "He hurt himself."
+  },
+  {
+    "word": "his",
+    "pos": "pronoun",
+    "meaningEn": "belonging to him",
+    "meaningTh": "ของเขา",
+    "example": "This is his car."
+  },
+  {
+    "word": "hit",
+    "pos": "verb, noun",
+    "meaningEn": "to strike; a successful song",
+    "meaningTh": "ตี / เพลงดัง",
+    "example": "He hit the ball."
+  },
+  {
+    "word": "hockey",
+    "pos": "noun",
+    "meaningEn": "a sport played with sticks",
+    "meaningTh": "ฮอกกี้",
+    "example": "They play hockey."
+  },
+  {
+    "word": "hold",
+    "pos": "verb",
+    "meaningEn": "to keep in your hand",
+    "meaningTh": "ถือ",
+    "example": "Hold my hand."
+  },
+  {
+    "word": "hole",
+    "pos": "noun",
+    "meaningEn": "an empty space in something",
+    "meaningTh": "รู",
+    "example": "There is a hole in my shirt."
+  },
+  {
+    "word": "home",
+    "pos": "adjective",
+    "meaningEn": "relating to where you live",
+    "meaningTh": "ที่บ้าน",
+    "example": "Home cooking is delicious."
+  },
+  {
+    "word": "hope",
+    "pos": "noun",
+    "meaningEn": "a feeling of wanting something good",
+    "meaningTh": "ความหวัง",
+    "example": "There is still hope."
+  },
+  {
+    "word": "huge",
+    "pos": "adjective",
+    "meaningEn": "very big",
+    "meaningTh": "ใหญ่มาก",
+    "example": "They live in a huge house."
+  },
+  {
+    "word": "human",
+    "pos": "adjective, noun",
+    "meaningEn": "relating to people; a person",
+    "meaningTh": "มนุษย์",
+    "example": "Humans need water."
+  },
+  {
+    "word": "hurt",
+    "pos": "verb, adjective",
+    "meaningEn": "to feel pain; injured",
+    "meaningTh": "เจ็บ / ทำให้เจ็บ",
+    "example": "My leg hurts."
+  },
+  {
+    "word": "ideal",
+    "pos": "adjective",
+    "meaningEn": "perfect",
+    "meaningTh": "เหมาะสมที่สุด",
+    "example": "This is an ideal solution."
+  },
+  {
+    "word": "identify",
+    "pos": "verb",
+    "meaningEn": "to recognize someone or something",
+    "meaningTh": "ระบุ / ระบุตัว",
+    "example": "Can you identify this plant?"
+  },
+  {
+    "word": "ill",
+    "pos": "adjective",
+    "meaningEn": "not well",
+    "meaningTh": "ป่วย",
+    "example": "She feels ill."
+  },
+  {
+    "word": "illness",
+    "pos": "noun",
+    "meaningEn": "a disease",
+    "meaningTh": "ความเจ็บป่วย",
+    "example": "He recovered from illness."
+  },
+  {
+    "word": "image",
+    "pos": "noun",
+    "meaningEn": "a picture",
+    "meaningTh": "ภาพ",
+    "example": "The image is clear."
+  },
+  {
+    "word": "immediately",
+    "pos": "adverb",
+    "meaningEn": "at once; without delay",
+    "meaningTh": "ทันที",
+    "example": "Come here immediately."
+  },
+  {
+    "word": "impossible",
+    "pos": "adjective",
+    "meaningEn": "not able to happen",
+    "meaningTh": "เป็นไปไม่ได้",
+    "example": "That is impossible."
+  },
+  {
+    "word": "included",
+    "pos": "adjective",
+    "meaningEn": "contained as part of something",
+    "meaningTh": "ที่รวมอยู่",
+    "example": "Breakfast is included."
+  },
+  {
+    "word": "including",
+    "pos": "preposition",
+    "meaningEn": "containing as part of the whole",
+    "meaningTh": "รวมถึง",
+    "example": "Everyone came, including Tom."
+  },
+  {
+    "word": "increase",
+    "pos": "verb, noun",
+    "meaningEn": "to become larger; a rise",
+    "meaningTh": "เพิ่มขึ้น",
+    "example": "Prices increased."
+  },
+  {
+    "word": "incredible",
+    "pos": "adjective",
+    "meaningEn": "very amazing",
+    "meaningTh": "น่าทึ่ง",
+    "example": "The view was incredible."
+  },
+  {
+    "word": "independent",
+    "pos": "adjective",
+    "meaningEn": "not controlled by others",
+    "meaningTh": "เป็นอิสระ",
+    "example": "She is independent."
+  },
+  {
+    "word": "individual",
+    "pos": "noun, adjective",
+    "meaningEn": "a single person; single or separate",
+    "meaningTh": "บุคคล / รายบุคคล",
+    "example": "Each individual matters."
+  },
+  {
+    "word": "industry",
+    "pos": "noun",
+    "meaningEn": "business activity of making goods",
+    "meaningTh": "อุตสาหกรรม",
+    "example": "The car industry is large."
+  },
+  {
+    "word": "informal",
+    "pos": "adjective",
+    "meaningEn": "not official or serious",
+    "meaningTh": "ไม่เป็นทางการ",
+    "example": "This is an informal meeting."
+  },
+  {
+    "word": "injury",
+    "pos": "noun",
+    "meaningEn": "damage to the body",
+    "meaningTh": "การบาดเจ็บ",
+    "example": "He had a leg injury."
+  },
+  {
+    "word": "insect",
+    "pos": "noun",
+    "meaningEn": "a small animal with six legs",
+    "meaningTh": "แมลง",
+    "example": "A mosquito is an insect."
+  },
+  {
+    "word": "inside",
+    "pos": "preposition, adverb, noun, adjective",
+    "meaningEn": "in the inner part",
+    "meaningTh": "ข้างใน",
+    "example": "Wait inside."
+  },
+  {
+    "word": "instead",
+    "pos": "adverb",
+    "meaningEn": "as a replacement",
+    "meaningTh": "แทน",
+    "example": "Have tea instead of coffee."
+  },
+  {
+    "word": "instruction",
+    "pos": "noun",
+    "meaningEn": "information about how to do something",
+    "meaningTh": "คำแนะนำ",
+    "example": "Follow the instructions."
+  },
+  {
+    "word": "instructor",
+    "pos": "noun",
+    "meaningEn": "a person who teaches",
+    "meaningTh": "ผู้สอน",
+    "example": "The instructor explained clearly."
+  },
+  {
+    "word": "instrument",
+    "pos": "noun",
+    "meaningEn": "a tool or musical device",
+    "meaningTh": "เครื่องมือ / เครื่องดนตรี",
+    "example": "She plays a musical instrument."
+  },
+  {
+    "word": "intelligent",
+    "pos": "adjective",
+    "meaningEn": "clever; able to learn well",
+    "meaningTh": "ฉลาด",
+    "example": "He is intelligent."
+  },
+  {
+    "word": "international",
+    "pos": "adjective",
+    "meaningEn": "between countries",
+    "meaningTh": "นานาชาติ",
+    "example": "An international airport."
+  },
+  {
+    "word": "introduction",
+    "pos": "noun",
+    "meaningEn": "the beginning of something",
+    "meaningTh": "บทนำ",
+    "example": "The book has a short introduction."
+  },
+  {
+    "word": "invent",
+    "pos": "verb",
+    "meaningEn": "to create something new",
+    "meaningTh": "ประดิษฐ์",
+    "example": "He invented a new machine."
+  },
+  {
+    "word": "invention",
+    "pos": "noun",
+    "meaningEn": "something newly created",
+    "meaningTh": "สิ่งประดิษฐ์",
+    "example": "The invention changed the world."
+  },
+  {
+    "word": "invitation",
+    "pos": "noun",
+    "meaningEn": "a request to attend something",
+    "meaningTh": "คำเชิญ",
+    "example": "I received an invitation."
+  },
+  {
+    "word": "invite",
+    "pos": "verb",
+    "meaningEn": "to ask someone to come",
+    "meaningTh": "เชิญ",
+    "example": "They invited me."
+  },
+  {
+    "word": "involve",
+    "pos": "verb",
+    "meaningEn": "to include something as part",
+    "meaningTh": "เกี่ยวข้อง",
+    "example": "The job involves travel."
+  },
+  {
+    "word": "item",
+    "pos": "noun",
+    "meaningEn": "a single thing",
+    "meaningTh": "รายการ / สิ่งของ",
+    "example": "This item is expensive."
+  },
+  {
+    "word": "itself",
+    "pos": "pronoun",
+    "meaningEn": "used to refer to a thing",
+    "meaningTh": "ตัวมันเอง",
+    "example": "The dog hurt itself."
+  },
+  {
+    "word": "jam",
+    "pos": "noun",
+    "meaningEn": "a sweet fruit spread",
+    "meaningTh": "แยม",
+    "example": "She spread jam on bread."
+  },
+  {
+    "word": "jazz",
+    "pos": "noun",
+    "meaningEn": "a type of music",
+    "meaningTh": "ดนตรีแจ๊ส",
+    "example": "He likes jazz."
+  },
+  {
+    "word": "jewellery",
+    "pos": "noun",
+    "meaningEn": "decorative items worn on the body",
+    "meaningTh": "เครื่องประดับ",
+    "example": "She wears gold jewellery."
+  },
+  {
+    "word": "joke",
+    "pos": "noun, verb",
+    "meaningEn": "something funny; to say something funny",
+    "meaningTh": "เรื่องตลก / ล้อเล่น",
+    "example": "He told a joke."
+  },
+  {
+    "word": "journalist",
+    "pos": "noun",
+    "meaningEn": "a person who writes news",
+    "meaningTh": "นักข่าว",
+    "example": "She is a journalist."
+  },
+  {
+    "word": "jump",
+    "pos": "verb, noun",
+    "meaningEn": "to push yourself into the air; an act of jumping",
+    "meaningTh": "กระโดด",
+    "example": "The cat jumped."
+  },
+  {
+    "word": "kid",
+    "pos": "noun",
+    "meaningEn": "a child",
+    "meaningTh": "เด็ก",
+    "example": "The kids are playing."
+  },
+  {
+    "word": "kill",
+    "pos": "verb",
+    "meaningEn": "to cause death",
+    "meaningTh": "ฆ่า",
+    "example": "The disease killed many people."
+  },
+  {
+    "word": "king",
+    "pos": "noun",
+    "meaningEn": "a male ruler",
+    "meaningTh": "กษัตริย์",
+    "example": "The king ruled the country."
+  },
+  {
+    "word": "knee",
+    "pos": "noun",
+    "meaningEn": "the joint between thigh and leg",
+    "meaningTh": "เข่า",
+    "example": "He hurt his knee."
+  },
+  {
+    "word": "knife",
+    "pos": "noun",
+    "meaningEn": "a sharp tool for cutting",
+    "meaningTh": "มีด",
+    "example": "Cut it with a knife."
+  },
+  {
+    "word": "knock",
+    "pos": "verb",
+    "meaningEn": "to hit a door to get attention",
+    "meaningTh": "เคาะ",
+    "example": "Knock before entering."
+  },
+  {
+    "word": "knowledge",
+    "pos": "noun",
+    "meaningEn": "information and understanding",
+    "meaningTh": "ความรู้",
+    "example": "Knowledge is power."
+  },
+  {
+    "word": "lab",
+    "pos": "noun",
+    "meaningEn": "a laboratory",
+    "meaningTh": "ห้องปฏิบัติการ",
+    "example": "The experiment was done in the lab."
+  },
+  {
+    "word": "lady",
+    "pos": "noun",
+    "meaningEn": "a woman",
+    "meaningTh": "สุภาพสตรี",
+    "example": "An old lady helped me."
+  },
+  {
+    "word": "lake",
+    "pos": "noun",
+    "meaningEn": "a large area of water",
+    "meaningTh": "ทะเลสาบ",
+    "example": "They swam in the lake."
+  },
+  {
+    "word": "lamp",
+    "pos": "noun",
+    "meaningEn": "a device that gives light",
+    "meaningTh": "โคมไฟ",
+    "example": "Turn on the lamp."
+  },
+  {
+    "word": "land",
+    "pos": "verb",
+    "meaningEn": "to arrive on the ground",
+    "meaningTh": "ลงจอด",
+    "example": "The plane landed safely."
+  },
+  {
+    "word": "laptop",
+    "pos": "noun",
+    "meaningEn": "a portable computer",
+    "meaningTh": "แล็ปท็อป",
+    "example": "She uses a laptop."
+  },
+  {
+    "word": "last",
+    "pos": "adverb, noun",
+    "meaningEn": "final; the end",
+    "meaningTh": "สุดท้าย",
+    "example": "He finished last."
+  },
+  {
+    "word": "last",
+    "pos": "verb",
+    "meaningEn": "to continue for a period of time",
+    "meaningTh": "คงอยู่",
+    "example": "The show lasted two hours."
+  },
+  {
+    "word": "later",
+    "pos": "adjective",
+    "meaningEn": "happening after",
+    "meaningTh": "ภายหลัง",
+    "example": "See you later."
+  },
+  {
+    "word": "laughter",
+    "pos": "noun",
+    "meaningEn": "the sound of laughing",
+    "meaningTh": "เสียงหัวเราะ",
+    "example": "The room was full of laughter."
+  },
+  {
+    "word": "law",
+    "pos": "noun",
+    "meaningEn": "a rule made by the government",
+    "meaningTh": "กฎหมาย",
+    "example": "It is against the law."
+  },
+  {
+    "word": "lawyer",
+    "pos": "noun",
+    "meaningEn": "a person who works with the law",
+    "meaningTh": "ทนายความ",
+    "example": "She spoke to her lawyer."
+  },
+  {
+    "word": "lazy",
+    "pos": "adjective",
+    "meaningEn": "not willing to work",
+    "meaningTh": "ขี้เกียจ",
+    "example": "Don't be lazy."
+  },
+  {
+    "word": "lead",
+    "pos": "verb",
+    "meaningEn": "to guide or be in front",
+    "meaningTh": "นำ",
+    "example": "She leads the team."
+  },
+  {
+    "word": "leader",
+    "pos": "noun",
+    "meaningEn": "a person who leads",
+    "meaningTh": "ผู้นำ",
+    "example": "He is a good leader."
+  },
+  {
+    "word": "learning",
+    "pos": "noun",
+    "meaningEn": "the process of gaining knowledge",
+    "meaningTh": "การเรียนรู้",
+    "example": "Learning takes time."
+  },
+  {
+    "word": "least",
+    "pos": "determiner, pronoun, adverb",
+    "meaningEn": "the smallest amount",
+    "meaningTh": "น้อยที่สุด",
+    "example": "This costs the least."
+  },
+  {
+    "word": "lecture",
+    "pos": "noun, verb",
+    "meaningEn": "a formal talk; to give a talk",
+    "meaningTh": "การบรรยาย",
+    "example": "He gave a lecture."
+  },
+  {
+    "word": "lemon",
+    "pos": "noun",
+    "meaningEn": "a sour yellow fruit",
+    "meaningTh": "มะนาว",
+    "example": "Add lemon to tea."
+  },
+  {
+    "word": "lend",
+    "pos": "verb",
+    "meaningEn": "to give something temporarily",
+    "meaningTh": "ให้ยืม",
+    "example": "Lend me your pen."
+  },
+  {
+    "word": "less",
+    "pos": "determiner, pronoun, adverb",
+    "meaningEn": "a smaller amount",
+    "meaningTh": "น้อยกว่า",
+    "example": "I have less money."
+  },
+  {
+    "word": "level",
+    "pos": "noun",
+    "meaningEn": "a stage or height",
+    "meaningTh": "ระดับ",
+    "example": "English level A2."
+  },
+  {
+    "word": "lifestyle",
+    "pos": "noun",
+    "meaningEn": "the way someone lives",
+    "meaningTh": "วิถีชีวิต",
+    "example": "She has a healthy lifestyle."
+  },
+  {
+    "word": "lift",
+    "pos": "verb, noun",
+    "meaningEn": "to raise; an elevator",
+    "meaningTh": "ยก / ลิฟต์",
+    "example": "Lift the box."
+  },
+  {
+    "word": "light",
+    "pos": "verb",
+    "meaningEn": "to provide light",
+    "meaningTh": "จุดไฟ / ให้แสง",
+    "example": "Light the candle."
+  },
+  {
+    "word": "light",
+    "pos": "adjective",
+    "meaningEn": "not heavy",
+    "meaningTh": "เบา",
+    "example": "This bag is light."
+  },
+  {
+    "word": "likely",
+    "pos": "adjective",
+    "meaningEn": "probable",
+    "meaningTh": "มีแนวโน้ม",
+    "example": "It is likely to rain."
+  },
+  {
+    "word": "link",
+    "pos": "noun, verb",
+    "meaningEn": "a connection; to connect",
+    "meaningTh": "ลิงก์ / เชื่อมโยง",
+    "example": "Click the link."
+  },
+  {
+    "word": "listener",
+    "pos": "noun",
+    "meaningEn": "a person who listens",
+    "meaningTh": "ผู้ฟัง",
+    "example": "She is a good listener."
+  },
+  {
+    "word": "little",
+    "pos": "adverb",
+    "meaningEn": "not much",
+    "meaningTh": "เล็กน้อย",
+    "example": "He slept little."
+  },
+  {
+    "word": "lock",
+    "pos": "verb, noun",
+    "meaningEn": "to fasten something with a key; a device that keeps something closed",
+    "meaningTh": "ล็อก; ตัวล็อก/กุญแจ",
+    "example": "Please lock the door before you leave."
+  },
+  {
+    "word": "look",
+    "pos": "noun",
+    "meaningEn": "an expression on someone’s face",
+    "meaningTh": "สีหน้า",
+    "example": "She gave me a surprised look."
+  },
+  {
+    "word": "lorry",
+    "pos": "noun",
+    "meaningEn": "a large vehicle used for carrying goods",
+    "meaningTh": "รถบรรทุก",
+    "example": "The lorry delivered the furniture."
+  },
+  {
+    "word": "lost",
+    "pos": "adjective",
+    "meaningEn": "unable to find your way; no longer owned",
+    "meaningTh": "หลงทาง; สูญหาย",
+    "example": "I felt lost in the new school."
+  },
+  {
+    "word": "loud",
+    "pos": "adjective, adverb",
+    "meaningEn": "making a lot of noise",
+    "meaningTh": "เสียงดัง",
+    "example": "The music was very loud."
+  },
+  {
+    "word": "loudly",
+    "pos": "adverb",
+    "meaningEn": "in a loud way",
+    "meaningTh": "อย่างเสียงดัง",
+    "example": "He laughed loudly."
+  },
+  {
+    "word": "lovely",
+    "pos": "adjective",
+    "meaningEn": "very pleasant or beautiful",
+    "meaningTh": "น่ารัก; สวยงาม",
+    "example": "It was a lovely evening."
+  },
+  {
+    "word": "low",
+    "pos": "adjective, adverb",
+    "meaningEn": "not high; small in amount or level",
+    "meaningTh": "ต่ำ",
+    "example": "The price is quite low."
+  },
+  {
+    "word": "luck",
+    "pos": "noun",
+    "meaningEn": "success or failure caused by chance",
+    "meaningTh": "โชค",
+    "example": "Good luck with your test."
+  },
+  {
+    "word": "lucky",
+    "pos": "adjective",
+    "meaningEn": "having good luck",
+    "meaningTh": "โชคดี",
+    "example": "She was lucky to find her phone."
+  },
+  {
+    "word": "mail",
+    "pos": "noun, verb",
+    "meaningEn": "letters and parcels sent by post; to send by post",
+    "meaningTh": "จดหมาย; ส่งไปรษณีย์",
+    "example": "I will mail the package tomorrow."
+  },
+  {
+    "word": "major",
+    "pos": "adjective",
+    "meaningEn": "very important or serious",
+    "meaningTh": "สำคัญ; ใหญ่",
+    "example": "It is a major problem."
+  },
+  {
+    "word": "male",
+    "pos": "adjective, noun",
+    "meaningEn": "relating to men or boys; a man or boy",
+    "meaningTh": "เพศชาย",
+    "example": "The male lion is larger."
+  },
+  {
+    "word": "manage",
+    "pos": "verb",
+    "meaningEn": "to succeed in doing something; to control or organize",
+    "meaningTh": "จัดการ; ทำสำเร็จ",
+    "example": "She managed to finish the work."
+  },
+  {
+    "word": "manager",
+    "pos": "noun",
+    "meaningEn": "a person who controls or organizes a business or team",
+    "meaningTh": "ผู้จัดการ",
+    "example": "The manager called a meeting."
+  },
+  {
+    "word": "manner",
+    "pos": "noun",
+    "meaningEn": "the way in which something is done",
+    "meaningTh": "วิธีการ; กิริยา",
+    "example": "He spoke in a polite manner."
+  },
+  {
+    "word": "mark",
+    "pos": "verb, noun",
+    "meaningEn": "to make a sign; a sign or grade",
+    "meaningTh": "ทำเครื่องหมาย; คะแนน",
+    "example": "She got a high mark in math."
+  },
+  {
+    "word": "marry",
+    "pos": "verb",
+    "meaningEn": "to become the husband or wife of someone",
+    "meaningTh": "แต่งงาน",
+    "example": "They plan to marry next year."
+  },
+  {
+    "word": "material",
+    "pos": "noun",
+    "meaningEn": "a substance used to make things",
+    "meaningTh": "วัสดุ",
+    "example": "This dress is made of soft material."
+  },
+  {
+    "word": "mathematics",
+    "pos": "noun",
+    "meaningEn": "the study of numbers and shapes",
+    "meaningTh": "คณิตศาสตร์",
+    "example": "Mathematics is my favorite subject."
+  },
+  {
+    "word": "maths",
+    "pos": "noun",
+    "meaningEn": "the study of numbers and shapes (British English for mathematics)",
+    "meaningTh": "คณิตศาสตร์",
+    "example": "I have a maths test tomorrow."
+  },
+  {
+    "word": "matter",
+    "pos": "noun, verb",
+    "meaningEn": "a subject or situation; to be important",
+    "meaningTh": "เรื่อง; มีความสำคัญ",
+    "example": "It doesn't matter."
+  },
+  {
+    "word": "may",
+    "pos": "modal verb",
+    "meaningEn": "used to show possibility or permission",
+    "meaningTh": "อาจจะ; ได้รับอนุญาต",
+    "example": "It may rain later."
+  },
+  {
+    "word": "media",
+    "pos": "noun",
+    "meaningEn": "television, radio, newspapers, and the internet",
+    "meaningTh": "สื่อมวลชน",
+    "example": "The news spread quickly through the media."
+  },
+  {
+    "word": "medical",
+    "pos": "adjective",
+    "meaningEn": "relating to medicine or treatment",
+    "meaningTh": "ทางการแพทย์",
+    "example": "She needs medical help."
+  },
+  {
+    "word": "medicine",
+    "pos": "noun",
+    "meaningEn": "a substance used to treat illness",
+    "meaningTh": "ยา",
+    "example": "Take this medicine twice a day."
+  },
+  {
+    "word": "memory",
+    "pos": "noun",
+    "meaningEn": "the ability to remember things",
+    "meaningTh": "ความทรงจำ",
+    "example": "I have a good memory."
+  },
+  {
+    "word": "mention",
+    "pos": "verb",
+    "meaningEn": "to speak or write about something briefly",
+    "meaningTh": "กล่าวถึง",
+    "example": "He mentioned your name."
+  },
+  {
+    "word": "metal",
+    "pos": "noun",
+    "meaningEn": "a hard material such as iron or gold",
+    "meaningTh": "โลหะ",
+    "example": "The chair is made of metal."
+  },
+  {
+    "word": "method",
+    "pos": "noun",
+    "meaningEn": "a way of doing something",
+    "meaningTh": "วิธีการ",
+    "example": "This method is very effective."
+  },
+  {
+    "word": "middle",
+    "pos": "noun, adjective",
+    "meaningEn": "the center part of something",
+    "meaningTh": "ตรงกลาง",
+    "example": "He sat in the middle of the room."
+  },
+  {
+    "word": "might",
+    "pos": "modal verb",
+    "meaningEn": "used to show possibility",
+    "meaningTh": "อาจจะ",
+    "example": "She might come tonight."
+  },
+  {
+    "word": "mind",
+    "pos": "noun, verb",
+    "meaningEn": "the part that thinks and feels; to care about or object to",
+    "meaningTh": "จิตใจ; รังเกียจ/ใส่ใจ",
+    "example": "Do you mind if I open the window?"
+  },
+  {
+    "word": "mine",
+    "pos": "pronoun",
+    "meaningEn": "belonging to me",
+    "meaningTh": "ของฉัน",
+    "example": "That book is mine."
+  },
+  {
+    "word": "mirror",
+    "pos": "noun",
+    "meaningEn": "a piece of glass that shows your reflection",
+    "meaningTh": "กระจก",
+    "example": "She looked in the mirror."
+  },
+  {
+    "word": "missing",
+    "pos": "adjective",
+    "meaningEn": "lost or not able to be found",
+    "meaningTh": "สูญหาย",
+    "example": "My keys are missing."
+  },
+  {
+    "word": "mobile",
+    "pos": "adjective, noun",
+    "meaningEn": "able to move; a mobile phone",
+    "meaningTh": "เคลื่อนที่ได้; โทรศัพท์มือถือ",
+    "example": "I left my mobile at home."
+  },
+  {
+    "word": "monkey",
+    "pos": "noun",
+    "meaningEn": "an animal that lives in trees and has a long tail",
+    "meaningTh": "ลิง",
+    "example": "The monkey climbed the tree."
+  },
+  {
+    "word": "moon",
+    "pos": "noun",
+    "meaningEn": "the round object that moves around the Earth",
+    "meaningTh": "ดวงจันทร์",
+    "example": "The moon is bright tonight."
+  },
+  {
+    "word": "mostly",
+    "pos": "adverb",
+    "meaningEn": "mainly or generally",
+    "meaningTh": "ส่วนใหญ่",
+    "example": "I mostly study at night."
+  },
+  {
+    "word": "motorcycle",
+    "pos": "noun",
+    "meaningEn": "a two-wheeled vehicle with an engine",
+    "meaningTh": "รถจักรยานยนต์",
+    "example": "He rides a motorcycle."
+  },
+  {
+    "word": "movement",
+    "pos": "noun",
+    "meaningEn": "an act of moving",
+    "meaningTh": "การเคลื่อนไหว",
+    "example": "The movement of the car was slow."
+  },
+  {
+    "word": "musical",
+    "pos": "adjective",
+    "meaningEn": "relating to music",
+    "meaningTh": "เกี่ยวกับดนตรี",
+    "example": "She has great musical talent."
+  },
+  {
+    "word": "musician",
+    "pos": "noun",
+    "meaningEn": "a person who plays music",
+    "meaningTh": "นักดนตรี",
+    "example": "He is a famous musician."
+  },
+  {
+    "word": "myself",
+    "pos": "pronoun",
+    "meaningEn": "used when the subject and object are the same person",
+    "meaningTh": "ตัวฉันเอง",
+    "example": "I made this cake myself."
+  },
+  {
+    "word": "narrow",
+    "pos": "adjective",
+    "meaningEn": "not wide",
+    "meaningTh": "แคบ",
+    "example": "The road is very narrow."
+  },
+  {
+    "word": "national",
+    "pos": "adjective",
+    "meaningEn": "relating to a nation",
+    "meaningTh": "ระดับชาติ",
+    "example": "It is a national holiday."
+  },
+  {
+    "word": "nature",
+    "pos": "noun",
+    "meaningEn": "the physical world including plants and animals",
+    "meaningTh": "ธรรมชาติ",
+    "example": "I enjoy walking in nature."
+  },
+  {
+    "word": "nearly",
+    "pos": "adverb",
+    "meaningEn": "almost",
+    "meaningTh": "เกือบจะ",
+    "example": "I nearly missed the bus."
+  },
+  {
+    "word": "necessary",
+    "pos": "adjective",
+    "meaningEn": "needed or required",
+    "meaningTh": "จำเป็น",
+    "example": "Sleep is necessary for health."
+  },
+  {
+    "word": "neck",
+    "pos": "noun",
+    "meaningEn": "the part of the body between the head and shoulders",
+    "meaningTh": "ลำคอ",
+    "example": "He wore a scarf around his neck."
+  },
+  {
+    "word": "need",
+    "pos": "noun",
+    "meaningEn": "something that is necessary",
+    "meaningTh": "ความจำเป็น",
+    "example": "There is a need for change."
+  },
+  {
+    "word": "neither",
+    "pos": "determiner, pronoun",
+    "meaningEn": "not one and not the other of two",
+    "meaningTh": "ไม่ทั้งสอง",
+    "example": "Neither answer is correct."
+  },
+  {
+    "word": "nervous",
+    "pos": "adjective",
+    "meaningEn": "worried or anxious",
+    "meaningTh": "ประหม่า; กังวล",
+    "example": "She felt nervous before the exam."
+  },
+  {
+    "word": "network",
+    "pos": "noun",
+    "meaningEn": "a system of connected people or things",
+    "meaningTh": "เครือข่าย",
+    "example": "The computer network is down."
+  },
+  {
+    "word": "noise",
+    "pos": "noun",
+    "meaningEn": "a sound, especially a loud or unpleasant one",
+    "meaningTh": "เสียงดัง",
+    "example": "I heard a strange noise."
+  },
+  {
+    "word": "noisy",
+    "pos": "adjective",
+    "meaningEn": "making a lot of noise",
+    "meaningTh": "เสียงดัง",
+    "example": "The classroom was noisy."
+  },
+  {
+    "word": "none",
+    "pos": "pronoun",
+    "meaningEn": "not any",
+    "meaningTh": "ไม่มีเลย",
+    "example": "None of the students were late."
+  },
+  {
+    "word": "normal",
+    "pos": "adjective",
+    "meaningEn": "usual or typical",
+    "meaningTh": "ปกติ",
+    "example": "It is normal to feel tired."
+  },
+  {
+    "word": "normally",
+    "pos": "adverb",
+    "meaningEn": "usually",
+    "meaningTh": "โดยปกติ",
+    "example": "I normally wake up early."
+  },
+  {
+    "word": "notice",
+    "pos": "verb, noun",
+    "meaningEn": "to see or become aware of something; a written announcement",
+    "meaningTh": "สังเกต; ประกาศ",
+    "example": "Did you notice the change?"
+  },
+  {
+    "word": "novel",
+    "pos": "noun",
+    "meaningEn": "a long written story",
+    "meaningTh": "นวนิยาย",
+    "example": "She is reading a novel."
+  },
+  {
+    "word": "nowhere",
+    "pos": "adverb",
+    "meaningEn": "not in or to any place",
+    "meaningTh": "ไม่มีที่ไหนเลย",
+    "example": "I have nowhere to go."
+  },
+  {
+    "word": "number",
+    "pos": "verb",
+    "meaningEn": "to give numbers to things",
+    "meaningTh": "ใส่หมายเลข",
+    "example": "Please number the pages."
+  },
+  {
+    "word": "nut",
+    "pos": "noun",
+    "meaningEn": "a hard fruit with a shell",
+    "meaningTh": "ถั่ว",
+    "example": "She ate a handful of nuts."
+  },
+  {
+    "word": "ocean",
+    "pos": "noun",
+    "meaningEn": "a very large area of sea",
+    "meaningTh": "มหาสมุทร",
+    "example": "The Pacific Ocean is huge."
+  },
+  {
+    "word": "offer",
+    "pos": "verb, noun",
+    "meaningEn": "to provide or present something; an act of offering",
+    "meaningTh": "เสนอ; ข้อเสนอ",
+    "example": "They offered me a job."
+  },
+  {
+    "word": "officer",
+    "pos": "noun",
+    "meaningEn": "a person with a position of authority",
+    "meaningTh": "เจ้าหน้าที่; นายตำรวจ",
+    "example": "The police officer helped us."
+  },
+  {
+    "word": "oil",
+    "pos": "noun",
+    "meaningEn": "a thick liquid used as fuel or for cooking",
+    "meaningTh": "น้ำมัน",
+    "example": "Add some oil to the pan."
+  },
+  {
+    "word": "onto",
+    "pos": "preposition",
+    "meaningEn": "moving to a position on",
+    "meaningTh": "ไปบน",
+    "example": "The cat jumped onto the table."
+  },
+  {
+    "word": "opportunity",
+    "pos": "noun",
+    "meaningEn": "a chance to do something",
+    "meaningTh": "โอกาส",
+    "example": "This is a great opportunity."
+  },
+  {
+    "word": "option",
+    "pos": "noun",
+    "meaningEn": "a choice",
+    "meaningTh": "ตัวเลือก",
+    "example": "You have two options."
+  },
+  {
+    "word": "ordinary",
+    "pos": "adjective",
+    "meaningEn": "not special or unusual",
+    "meaningTh": "ธรรมดา",
+    "example": "It was just an ordinary day."
+  },
+  {
+    "word": "organization",
+    "pos": "noun",
+    "meaningEn": "a group with a particular purpose",
+    "meaningTh": "องค์กร",
+    "example": "She works for an international organization."
+  },
+  {
+    "word": "organize",
+    "pos": "verb",
+    "meaningEn": "to arrange or plan",
+    "meaningTh": "จัดระเบียบ; จัดการ",
+    "example": "We need to organize the event."
+  },
+  {
+    "word": "original",
+    "pos": "adjective",
+    "meaningEn": "first or earliest; not copied",
+    "meaningTh": "ต้นฉบับ; ดั้งเดิม",
+    "example": "This is the original design."
+  },
+  {
+    "word": "ourselves",
+    "pos": "pronoun",
+    "meaningEn": "used when the subject and object are we",
+    "meaningTh": "พวกเราเอง",
+    "example": "We prepared the food ourselves."
+  },
+  {
+    "word": "outside",
+    "pos": "preposition, noun, adjective",
+    "meaningEn": "not inside; the outer part",
+    "meaningTh": "ข้างนอก",
+    "example": "Let’s sit outside."
+  },
+  {
+    "word": "oven",
+    "pos": "noun",
+    "meaningEn": "a kitchen appliance used for baking or cooking",
+    "meaningTh": "เตาอบ",
+    "example": "Put the cake in the oven."
+  },
+  {
+    "word": "own",
+    "pos": "verb",
+    "meaningEn": "to have something as your property",
+    "meaningTh": "เป็นเจ้าของ",
+    "example": "She owns a small shop."
+  },
+  {
+    "word": "owner",
+    "pos": "noun",
+    "meaningEn": "a person who owns something",
+    "meaningTh": "เจ้าของ",
+    "example": "The owner closed the store early."
+  },
+  {
+    "word": "pack",
+    "pos": "verb",
+    "meaningEn": "to put things into a bag or box",
+    "meaningTh": "จัดของใส่กระเป๋า",
+    "example": "I need to pack my clothes."
+  },
+  {
+    "word": "pain",
+    "pos": "noun",
+    "meaningEn": "a feeling of physical suffering",
+    "meaningTh": "ความเจ็บปวด",
+    "example": "He felt pain in his leg."
+  },
+  {
+    "word": "painter",
+    "pos": "noun",
+    "meaningEn": "a person who paints pictures or walls",
+    "meaningTh": "จิตรกร; ช่างทาสี",
+    "example": "The painter finished the wall."
+  },
+  {
+    "word": "palace",
+    "pos": "noun",
+    "meaningEn": "a large and impressive building for a king or queen",
+    "meaningTh": "พระราชวัง",
+    "example": "The king lives in a palace."
+  },
+  {
+    "word": "pants",
+    "pos": "noun",
+    "meaningEn": "clothing worn on the lower body",
+    "meaningTh": "กางเกง",
+    "example": "He bought new pants."
+  },
+  {
+    "word": "parking",
+    "pos": "noun",
+    "meaningEn": "a place where vehicles can be left",
+    "meaningTh": "ที่จอดรถ",
+    "example": "There is no parking here."
+  },
+  {
+    "word": "particular",
+    "pos": "adjective",
+    "meaningEn": "special or specific",
+    "meaningTh": "โดยเฉพาะ; เจาะจง",
+    "example": "Is there any particular reason?"
+  },
+  {
+    "word": "pass",
+    "pos": "verb",
+    "meaningEn": "to go by; to succeed in a test",
+    "meaningTh": "ผ่าน; สอบผ่าน",
+    "example": "She passed the exam."
+  },
+  {
+    "word": "passenger",
+    "pos": "noun",
+    "meaningEn": "a person traveling in a vehicle",
+    "meaningTh": "ผู้โดยสาร",
+    "example": "The passenger sat in the back seat."
+  },
+  {
+    "word": "past",
+    "pos": "adverb",
+    "meaningEn": "gone by in time",
+    "meaningTh": "ที่ผ่านมา",
+    "example": "In the past, life was simpler."
+  },
+  {
+    "word": "patient",
+    "pos": "noun",
+    "meaningEn": "a person receiving medical treatment",
+    "meaningTh": "ผู้ป่วย",
+    "example": "The doctor examined the patient."
+  },
+  {
+    "word": "pattern",
+    "pos": "noun",
+    "meaningEn": "a repeated design or arrangement",
+    "meaningTh": "ลวดลาย; รูปแบบ",
+    "example": "The shirt has a nice pattern."
+  },
+  {
+    "word": "pay",
+    "pos": "noun",
+    "meaningEn": "money that you receive for work",
+    "meaningTh": "ค่าจ้าง",
+    "example": "The pay is good at this job."
+  },
+  {
+    "word": "peace",
+    "pos": "noun",
+    "meaningEn": "a situation without war or violence",
+    "meaningTh": "สันติภาพ",
+    "example": "They hope for peace."
+  },
+  {
+    "word": "penny",
+    "pos": "noun",
+    "meaningEn": "a small coin",
+    "meaningTh": "เหรียญเล็ก",
+    "example": "He found a penny on the ground."
+  },
+  {
+    "word": "per",
+    "pos": "preposition",
+    "meaningEn": "for each",
+    "meaningTh": "ต่อ",
+    "example": "The speed is 60 kilometers per hour."
+  },
+  {
+    "word": "per cent",
+    "pos": "noun, adjective, adverb",
+    "meaningEn": "out of one hundred",
+    "meaningTh": "เปอร์เซ็นต์",
+    "example": "Prices increased by 10 per cent."
+  },
+  {
+    "word": "perform",
+    "pos": "verb",
+    "meaningEn": "to do something in front of people",
+    "meaningTh": "แสดง; ปฏิบัติ",
+    "example": "The band will perform tonight."
+  },
+  {
+    "word": "perhaps",
+    "pos": "adverb",
+    "meaningEn": "maybe",
+    "meaningTh": "บางที",
+    "example": "Perhaps we can try again."
+  },
+  {
+    "word": "permission",
+    "pos": "noun",
+    "meaningEn": "official agreement to do something",
+    "meaningTh": "การอนุญาต",
+    "example": "You need permission to enter."
+  },
+  {
+    "word": "personality",
+    "pos": "noun",
+    "meaningEn": "the way someone thinks and behaves",
+    "meaningTh": "บุคลิกภาพ",
+    "example": "She has a friendly personality."
+  },
+  {
+    "word": "pet",
+    "pos": "noun",
+    "meaningEn": "an animal kept at home",
+    "meaningTh": "สัตว์เลี้ยง",
+    "example": "My dog is my favorite pet."
+  },
+  {
+    "word": "petrol",
+    "pos": "noun",
+    "meaningEn": "fuel for cars (British English for gasoline)",
+    "meaningTh": "น้ำมันเชื้อเพลิง",
+    "example": "The car needs petrol."
+  },
+  {
+    "word": "photograph",
+    "pos": "verb",
+    "meaningEn": "to take a picture",
+    "meaningTh": "ถ่ายภาพ",
+    "example": "She likes to photograph nature."
+  },
+                                    {
+    "word": "physical",
+    "pos": "adjective",
+    "meaningEn": "relating to the body",
+    "meaningTh": "ทางร่างกาย",
+    "example": "Physical exercise is important."
+  },
+  {
+    "word": "physics",
+    "pos": "noun",
+    "meaningEn": "the science of matter and energy",
+    "meaningTh": "ฟิสิกส์",
+    "example": "He studies physics at university."
+  },
+  {
+    "word": "pick",
+    "pos": "verb",
+    "meaningEn": "to choose or select",
+    "meaningTh": "เลือก",
+    "example": "Please pick your favorite color."
+  },
+  {
+    "word": "pilot",
+    "pos": "noun",
+    "meaningEn": "a person who flies an aircraft",
+    "meaningTh": "นักบิน",
+    "example": "The pilot landed the plane safely."
+  },
+  {
+    "word": "planet",
+    "pos": "noun",
+    "meaningEn": "a large object that moves around a star",
+    "meaningTh": "ดาวเคราะห์",
+    "example": "Earth is a planet."
+  },
+  {
+    "word": "plant",
+    "pos": "verb",
+    "meaningEn": "to put a seed or plant in the ground to grow",
+    "meaningTh": "ปลูก",
+    "example": "They plant trees every year."
+  },
+  {
+    "word": "plastic",
+    "pos": "noun, adjective",
+    "meaningEn": "a light artificial material; made of plastic",
+    "meaningTh": "พลาสติก",
+    "example": "The bottle is made of plastic."
+  },
+  {
+    "word": "plate",
+    "pos": "noun",
+    "meaningEn": "a flat dish used for food",
+    "meaningTh": "จาน",
+    "example": "Put the food on the plate."
+  },
+  {
+    "word": "platform",
+    "pos": "noun",
+    "meaningEn": "a raised area or a place where trains stop",
+    "meaningTh": "ชานชาลา; แพลตฟอร์ม",
+    "example": "The train arrived at platform 2."
+  },
+  {
+    "word": "please",
+    "pos": "verb",
+    "meaningEn": "to make someone happy",
+    "meaningTh": "ทำให้พอใจ",
+    "example": "I try to please my parents."
+  },
+  {
+    "word": "pleased",
+    "pos": "adjective",
+    "meaningEn": "feeling happy or satisfied",
+    "meaningTh": "พอใจ",
+    "example": "She was pleased with the result."
+  },
+  {
+    "word": "pocket",
+    "pos": "noun",
+    "meaningEn": "a small bag sewn into clothes",
+    "meaningTh": "กระเป๋าเสื้อ/กางเกง",
+    "example": "He put his phone in his pocket."
+  },
+  {
+    "word": "polite",
+    "pos": "adjective",
+    "meaningEn": "having good manners",
+    "meaningTh": "สุภาพ",
+    "example": "It is polite to say thank you."
+  },
+  {
+    "word": "pollution",
+    "pos": "noun",
+    "meaningEn": "damage to the environment by harmful substances",
+    "meaningTh": "มลพิษ",
+    "example": "Air pollution is a serious problem."
+  },
+  {
+    "word": "pop",
+    "pos": "noun, adjective",
+    "meaningEn": "popular music; relating to popular culture",
+    "meaningTh": "เพลงป๊อป",
+    "example": "She listens to pop music."
+  },
+  {
+    "word": "population",
+    "pos": "noun",
+    "meaningEn": "all the people living in a place",
+    "meaningTh": "ประชากร",
+    "example": "The population is increasing."
+  },
+  {
+    "word": "position",
+    "pos": "noun",
+    "meaningEn": "the place where someone or something is",
+    "meaningTh": "ตำแหน่ง",
+    "example": "The book is in that position."
+  },
+  {
+    "word": "possession",
+    "pos": "noun",
+    "meaningEn": "something that you own",
+    "meaningTh": "ทรัพย์สิน",
+    "example": "The car is his most valuable possession."
+  },
+  {
+    "word": "possibility",
+    "pos": "noun",
+    "meaningEn": "a chance that something may happen",
+    "meaningTh": "ความเป็นไปได้",
+    "example": "There is a possibility of rain."
+  },
+  {
+    "word": "poster",
+    "pos": "noun",
+    "meaningEn": "a large printed picture or notice",
+    "meaningTh": "โปสเตอร์",
+    "example": "There is a movie poster on the wall."
+  },
+  {
+    "word": "power",
+    "pos": "noun",
+    "meaningEn": "energy or ability to control",
+    "meaningTh": "พลังงาน; อำนาจ",
+    "example": "The storm caused a power cut."
+  },
+  {
+    "word": "predict",
+    "pos": "verb",
+    "meaningEn": "to say what you think will happen",
+    "meaningTh": "คาดการณ์",
+    "example": "Experts predict heavy rain."
+  },
+  {
+    "word": "present",
+    "pos": "verb",
+    "meaningEn": "to give or show something formally",
+    "meaningTh": "นำเสนอ; มอบให้",
+    "example": "She will present her project."
+  },
+  {
+    "word": "president",
+    "pos": "noun",
+    "meaningEn": "the leader of a country or organization",
+    "meaningTh": "ประธานาธิบดี; ประธาน",
+    "example": "The president gave a speech."
+  },
+  {
+    "word": "prevent",
+    "pos": "verb",
+    "meaningEn": "to stop something from happening",
+    "meaningTh": "ป้องกัน",
+    "example": "This medicine can prevent illness."
+  },
+  {
+    "word": "print",
+    "pos": "verb",
+    "meaningEn": "to produce text or images on paper",
+    "meaningTh": "พิมพ์",
+    "example": "Please print this document."
+  },
+  {
+    "word": "printer",
+    "pos": "noun",
+    "meaningEn": "a machine that prints documents",
+    "meaningTh": "เครื่องพิมพ์",
+    "example": "The printer is out of paper."
+  },
+  {
+    "word": "prison",
+    "pos": "noun",
+    "meaningEn": "a place where criminals are kept",
+    "meaningTh": "เรือนจำ",
+    "example": "He was sent to prison."
+  },
+  {
+    "word": "prize",
+    "pos": "noun",
+    "meaningEn": "something given as a reward",
+    "meaningTh": "รางวัล",
+    "example": "She won first prize."
+  },
+  {
+    "word": "process",
+    "pos": "noun",
+    "meaningEn": "a series of actions to achieve a result",
+    "meaningTh": "กระบวนการ",
+    "example": "Learning is a long process."
+  },
+  {
+    "word": "produce",
+    "pos": "verb",
+    "meaningEn": "to make or create something",
+    "meaningTh": "ผลิต",
+    "example": "This factory produces cars."
+  },
+  {
+    "word": "professional",
+    "pos": "adjective",
+    "meaningEn": "relating to a job requiring special skill",
+    "meaningTh": "มืออาชีพ",
+    "example": "She is a professional dancer."
+  },
+  {
+    "word": "professor",
+    "pos": "noun",
+    "meaningEn": "a senior university teacher",
+    "meaningTh": "ศาสตราจารย์",
+    "example": "The professor explained the topic."
+  },
+  {
+    "word": "profile",
+    "pos": "noun",
+    "meaningEn": "a short description of someone",
+    "meaningTh": "โปรไฟล์; ประวัติย่อ",
+    "example": "Update your online profile."
+  },
+  {
+    "word": "program",
+    "pos": "noun",
+    "meaningEn": "a set of instructions for a computer; a planned event",
+    "meaningTh": "โปรแกรม",
+    "example": "I installed a new program."
+  },
+  {
+    "word": "progress",
+    "pos": "noun",
+    "meaningEn": "development or improvement over time",
+    "meaningTh": "ความก้าวหน้า",
+    "example": "She is making good progress."
+  },
+  {
+    "word": "promise",
+    "pos": "verb, noun",
+    "meaningEn": "to say you will do something; a statement that you will do something",
+    "meaningTh": "สัญญา",
+    "example": "I promise to help you."
+  },
+  {
+    "word": "pronounce",
+    "pos": "verb",
+    "meaningEn": "to say a word correctly",
+    "meaningTh": "ออกเสียง",
+    "example": "Can you pronounce this word?"
+  },
+  {
+    "word": "protect",
+    "pos": "verb",
+    "meaningEn": "to keep someone or something safe",
+    "meaningTh": "ปกป้อง",
+    "example": "Sunscreen protects your skin."
+  },
+  {
+    "word": "provide",
+    "pos": "verb",
+    "meaningEn": "to give something that is needed",
+    "meaningTh": "จัดหาให้",
+    "example": "They provide free food."
+  },
+  {
+    "word": "pub",
+    "pos": "noun",
+    "meaningEn": "a place where people drink alcohol",
+    "meaningTh": "ผับ; ร้านเหล้า",
+    "example": "They met at the pub."
+  },
+  {
+    "word": "public",
+    "pos": "adjective, noun",
+    "meaningEn": "for everyone; ordinary people",
+    "meaningTh": "สาธารณะ; ประชาชน",
+    "example": "This park is open to the public."
+  },
+  {
+    "word": "publish",
+    "pos": "verb",
+    "meaningEn": "to produce a book or article for people to read",
+    "meaningTh": "ตีพิมพ์",
+    "example": "She wants to publish a novel."
+  },
+  {
+    "word": "pull",
+    "pos": "verb",
+    "meaningEn": "to move something towards you",
+    "meaningTh": "ดึง",
+    "example": "Pull the door open."
+  },
+  {
+    "word": "purpose",
+    "pos": "noun",
+    "meaningEn": "the reason for doing something",
+    "meaningTh": "จุดประสงค์",
+    "example": "What is the purpose of this meeting?"
+  },
+  {
+    "word": "push",
+    "pos": "verb",
+    "meaningEn": "to move something away from you",
+    "meaningTh": "ผลัก",
+    "example": "Push the button."
+  },
+  {
+    "word": "quality",
+    "pos": "noun",
+    "meaningEn": "how good or bad something is",
+    "meaningTh": "คุณภาพ",
+    "example": "This product has high quality."
+  },
+  {
+    "word": "quantity",
+    "pos": "noun",
+    "meaningEn": "the amount of something",
+    "meaningTh": "ปริมาณ",
+    "example": "We need a large quantity of water."
+  },
+  {
+    "word": "queen",
+    "pos": "noun",
+    "meaningEn": "a female ruler of a country",
+    "meaningTh": "ราชินี",
+    "example": "The queen gave a speech."
+  },
+  {
+    "word": "question",
+    "pos": "verb",
+    "meaningEn": "to ask someone about something",
+    "meaningTh": "ซักถาม",
+    "example": "The police questioned him."
+  },
+  {
+    "word": "quietly",
+    "pos": "adverb",
+    "meaningEn": "without making much noise",
+    "meaningTh": "อย่างเงียบ ๆ",
+    "example": "She spoke quietly."
+  },
+  {
+    "word": "race",
+    "pos": "noun, verb",
+    "meaningEn": "a competition of speed; to compete in a race",
+    "meaningTh": "การแข่งขัน; แข่งขัน",
+    "example": "He won the race."
+  },
+  {
+    "word": "railway",
+    "pos": "noun",
+    "meaningEn": "a system of trains and tracks",
+    "meaningTh": "ทางรถไฟ",
+    "example": "The railway connects the cities."
+  },
+  {
+    "word": "raise",
+    "pos": "verb",
+    "meaningEn": "to lift something up",
+    "meaningTh": "ยกขึ้น",
+    "example": "Raise your hand."
+  },
+  {
+    "word": "rate",
+    "pos": "noun",
+    "meaningEn": "the speed or level of something",
+    "meaningTh": "อัตรา",
+    "example": "The birth rate is rising."
+  },
+  {
+    "word": "rather",
+    "pos": "adverb",
+    "meaningEn": "quite; to some degree",
+    "meaningTh": "ค่อนข้าง",
+    "example": "It is rather cold."
+  },
+  {
+    "word": "reach",
+    "pos": "verb",
+    "meaningEn": "to arrive at a place",
+    "meaningTh": "ไปถึง",
+    "example": "We reached the station."
+  },
+  {
+    "word": "react",
+    "pos": "verb",
+    "meaningEn": "to respond to something",
+    "meaningTh": "ตอบสนอง",
+    "example": "How did she react?"
+  },
+  {
+    "word": "realize",
+    "pos": "verb",
+    "meaningEn": "to understand something",
+    "meaningTh": "ตระหนัก",
+    "example": "I realized my mistake."
+  },
+  {
+    "word": "receive",
+    "pos": "verb",
+    "meaningEn": "to get something",
+    "meaningTh": "ได้รับ",
+    "example": "She received a gift."
+  },
+  {
+    "word": "recent",
+    "pos": "adjective",
+    "meaningEn": "happening not long ago",
+    "meaningTh": "ล่าสุด",
+    "example": "This is a recent photo."
+  },
+  {
+    "word": "recently",
+    "pos": "adverb",
+    "meaningEn": "not long ago",
+    "meaningTh": "เมื่อไม่นานมานี้",
+    "example": "I moved here recently."
+  },
+  {
+    "word": "reception",
+    "pos": "noun",
+    "meaningEn": "the area in a hotel or office where guests are welcomed",
+    "meaningTh": "แผนกต้อนรับ",
+    "example": "Please go to reception."
+  },
+  {
+    "word": "recipe",
+    "pos": "noun",
+    "meaningEn": "instructions for cooking food",
+    "meaningTh": "สูตรอาหาร",
+    "example": "This recipe is easy."
+  },
+  {
+    "word": "recognize",
+    "pos": "verb",
+    "meaningEn": "to know someone or something again",
+    "meaningTh": "จำได้",
+    "example": "I recognized his voice."
+  },
+  {
+    "word": "recommend",
+    "pos": "verb",
+    "meaningEn": "to suggest something as good",
+    "meaningTh": "แนะนำ",
+    "example": "I recommend this restaurant."
+  },
+  {
+    "word": "record",
+    "pos": "noun, verb",
+    "meaningEn": "information kept for reference; to store sound or data",
+    "meaningTh": "บันทึก; บันทึกข้อมูล",
+    "example": "She broke the world record."
+  },
+  {
+    "word": "recording",
+    "pos": "noun",
+    "meaningEn": "sound or video that has been recorded",
+    "meaningTh": "การบันทึกเสียง/ภาพ",
+    "example": "I listened to the recording."
+  },
+  {
+    "word": "recycle",
+    "pos": "verb",
+    "meaningEn": "to use something again after processing it",
+    "meaningTh": "รีไซเคิล",
+    "example": "We recycle plastic bottles."
+  },
+  {
+    "word": "reduce",
+    "pos": "verb",
+    "meaningEn": "to make something smaller or less",
+    "meaningTh": "ลด",
+    "example": "We need to reduce waste."
+  },
+  {
+    "word": "refer",
+    "pos": "verb",
+    "meaningEn": "to mention or direct someone to something",
+    "meaningTh": "อ้างถึง",
+    "example": "He referred to the book."
+  },
+  {
+    "word": "refuse",
+    "pos": "verb",
+    "meaningEn": "to say no to something",
+    "meaningTh": "ปฏิเสธ",
+    "example": "She refused the offer."
+  },
+  {
+    "word": "region",
+    "pos": "noun",
+    "meaningEn": "a particular area of a country",
+    "meaningTh": "ภูมิภาค",
+    "example": "This region is famous for rice."
+  },
+  {
+    "word": "regular",
+    "pos": "adjective",
+    "meaningEn": "happening often or at the same time",
+    "meaningTh": "สม่ำเสมอ",
+    "example": "He is a regular customer."
+  },
+  {
+    "word": "relationship",
+    "pos": "noun",
+    "meaningEn": "the way people are connected",
+    "meaningTh": "ความสัมพันธ์",
+    "example": "They have a good relationship."
+  },
+  {
+    "word": "remove",
+    "pos": "verb",
+    "meaningEn": "to take something away",
+    "meaningTh": "เอาออก",
+    "example": "Remove your shoes."
+  },
+  {
+    "word": "repair",
+    "pos": "verb",
+    "meaningEn": "to fix something",
+    "meaningTh": "ซ่อมแซม",
+    "example": "He repaired the bike."
+  },
+  {
+    "word": "replace",
+    "pos": "verb",
+    "meaningEn": "to take the place of something",
+    "meaningTh": "แทนที่",
+    "example": "We replaced the old chair."
+  },
+  {
+    "word": "reply",
+    "pos": "verb, noun",
+    "meaningEn": "to answer; an answer",
+    "meaningTh": "ตอบ; คำตอบ",
+    "example": "She replied quickly."
+  },
+  {
+    "word": "report",
+    "pos": "verb",
+    "meaningEn": "to give information about something",
+    "meaningTh": "รายงาน",
+    "example": "They reported the news."
+  },
+  {
+    "word": "reporter",
+    "pos": "noun",
+    "meaningEn": "a person who reports news",
+    "meaningTh": "นักข่าว",
+    "example": "The reporter asked questions."
+  },
+  {
+    "word": "request",
+    "pos": "noun",
+    "meaningEn": "an act of asking for something",
+    "meaningTh": "คำร้องขอ",
+    "example": "She made a request."
+  },
+  {
+    "word": "research",
+    "pos": "noun, verb",
+    "meaningEn": "careful study; to study carefully",
+    "meaningTh": "การวิจัย; วิจัย",
+    "example": "He is doing research."
+  },
+  {
+    "word": "researcher",
+    "pos": "noun",
+    "meaningEn": "a person who studies something carefully",
+    "meaningTh": "นักวิจัย",
+    "example": "The researcher published a paper."
+  },
+  {
+    "word": "respond",
+    "pos": "verb",
+    "meaningEn": "to answer or react",
+    "meaningTh": "ตอบสนอง",
+    "example": "She responded politely."
+  },
+  {
+    "word": "response",
+    "pos": "noun",
+    "meaningEn": "an answer or reaction",
+    "meaningTh": "การตอบสนอง",
+    "example": "We received a quick response."
+  },
+  {
+    "word": "rest",
+    "pos": "noun",
+    "meaningEn": "the remaining part",
+    "meaningTh": "ส่วนที่เหลือ",
+    "example": "I finished the rest."
+  },
+  {
+    "word": "rest",
+    "pos": "noun, verb",
+    "meaningEn": "sleep or relax; to relax",
+    "meaningTh": "การพักผ่อน; พัก",
+    "example": "You should rest."
+  },
+  {
+    "word": "review",
+    "pos": "noun, verb",
+    "meaningEn": "a report giving opinion; to look at again",
+    "meaningTh": "บทวิจารณ์; ทบทวน",
+    "example": "I read a review online."
+  },
+  {
+    "word": "ride",
+    "pos": "noun",
+    "meaningEn": "a journey on a bike or horse",
+    "meaningTh": "การขี่",
+    "example": "It was a fun ride."
+  },
+  {
+    "word": "ring",
+    "pos": "noun",
+    "meaningEn": "a piece of jewelry worn on a finger",
+    "meaningTh": "แหวน",
+    "example": "She wore a gold ring."
+  },
+  {
+    "word": "ring",
+    "pos": "verb",
+    "meaningEn": "to make a telephone call",
+    "meaningTh": "โทรหา",
+    "example": "I will ring you later."
+  },
+  {
+    "word": "rise",
+    "pos": "verb",
+    "meaningEn": "to go up",
+    "meaningTh": "เพิ่มขึ้น; ลุกขึ้น",
+    "example": "Prices continue to rise."
+  },
+  {
+    "word": "rock",
+    "pos": "noun",
+    "meaningEn": "a large piece of stone",
+    "meaningTh": "ก้อนหิน",
+    "example": "He picked up a rock."
+  },
+  {
+    "word": "rock",
+    "pos": "noun",
+    "meaningEn": "a type of popular music",
+    "meaningTh": "เพลงร็อก",
+    "example": "He loves rock music."
+  },
+  {
+    "word": "role",
+    "pos": "noun",
+    "meaningEn": "a position or function",
+    "meaningTh": "บทบาท",
+    "example": "She played an important role."
+  },
+  {
+    "word": "roof",
+    "pos": "noun",
+    "meaningEn": "the top covering of a building",
+    "meaningTh": "หลังคา",
+    "example": "The roof needs repair."
+  },
+  {
+    "word": "round",
+    "pos": "adjective, adverb, preposition",
+    "meaningEn": "shaped like a circle; in a circular direction",
+    "meaningTh": "กลม; รอบ ๆ",
+    "example": "The table is round."
+  },
+  {
+    "word": "route",
+    "pos": "noun",
+    "meaningEn": "a way from one place to another",
+    "meaningTh": "เส้นทาง",
+    "example": "This is the fastest route."
+  },
+  {
+    "word": "rubbish",
+    "pos": "noun",
+    "meaningEn": "waste material",
+    "meaningTh": "ขยะ",
+    "example": "Throw the rubbish away."
+  },
+  {
+    "word": "rude",
+    "pos": "adjective",
+    "meaningEn": "not polite",
+    "meaningTh": "หยาบคาย",
+    "example": "It is rude to shout."
+  },
+  {
+    "word": "run",
+    "pos": "noun",
+    "meaningEn": "an act of running",
+    "meaningTh": "การวิ่ง",
+    "example": "I went for a run."
+  },
+  {
+    "word": "runner",
+    "pos": "noun",
+    "meaningEn": "a person who runs",
+    "meaningTh": "นักวิ่ง",
+    "example": "He is a fast runner."
+  },
+  {
+    "word": "running",
+    "pos": "noun",
+    "meaningEn": "the sport of running",
+    "meaningTh": "การวิ่ง",
+    "example": "Running is good exercise."
+  },
+  {
+    "word": "sadly",
+    "pos": "adverb",
+    "meaningEn": "in a sad way",
+    "meaningTh": "อย่างเศร้า",
+    "example": "She smiled sadly."
+  },
+  {
+    "word": "safe",
+    "pos": "adjective",
+    "meaningEn": "not dangerous",
+    "meaningTh": "ปลอดภัย",
+    "example": "This area is safe."
+  },
+  {
+    "word": "sail",
+    "pos": "verb",
+    "meaningEn": "to travel by boat",
+    "meaningTh": "ล่องเรือ",
+    "example": "They sail every weekend."
+  },
+  {
+    "word": "sailing",
+    "pos": "noun",
+    "meaningEn": "the activity of traveling by boat",
+    "meaningTh": "การล่องเรือ",
+    "example": "Sailing is relaxing."
+  },
+  {
+    "word": "salary",
+    "pos": "noun",
+    "meaningEn": "money paid regularly for work",
+    "meaningTh": "เงินเดือน",
+    "example": "She earns a high salary."
+  },
+  {
+    "word": "sale",
+    "pos": "noun",
+    "meaningEn": "the act of selling",
+    "meaningTh": "การขาย",
+    "example": "The store has a big sale."
+  },
+  {
+    "word": "sauce",
+    "pos": "noun",
+    "meaningEn": "a liquid served with food",
+    "meaningTh": "ซอส",
+    "example": "Add some sauce to the pasta."
+  },
+  {
+    "word": "save",
+    "pos": "verb",
+    "meaningEn": "to keep money or protect something",
+    "meaningTh": "ประหยัด; ช่วยชีวิต",
+    "example": "Save your money."
+  },
+  {
+    "word": "scared",
+    "pos": "adjective",
+    "meaningEn": "afraid",
+    "meaningTh": "กลัว",
+    "example": "She was scared of the dark."
+  },
+  {
+    "word": "scary",
+    "pos": "adjective",
+    "meaningEn": "frightening",
+    "meaningTh": "น่ากลัว",
+    "example": "That movie was scary."
+  },
+  {
+    "word": "scene",
+    "pos": "noun",
+    "meaningEn": "a part of a movie or play",
+    "meaningTh": "ฉาก",
+    "example": "It was my favorite scene."
+  },
+  {
+    "word": "schedule",
+    "pos": "noun",
+    "meaningEn": "a plan of times and events",
+    "meaningTh": "ตารางเวลา",
+    "example": "Check your schedule."
+  },
+  {
+    "word": "score",
+    "pos": "verb, noun",
+    "meaningEn": "to get points; the number of points",
+    "meaningTh": "ทำคะแนน; คะแนน",
+    "example": "He scored a goal."
+  },
+  {
+    "word": "screen",
+    "pos": "noun",
+    "meaningEn": "the flat surface of a TV or phone",
+    "meaningTh": "หน้าจอ",
+    "example": "The screen is broken."
+  },
+  {
+    "word": "search",
+    "pos": "noun, verb",
+    "meaningEn": "an attempt to find; to try to find",
+    "meaningTh": "การค้นหา; ค้นหา",
+    "example": "Police began a search."
+  },
+  {
+    "word": "season",
+    "pos": "noun",
+    "meaningEn": "one of the four parts of the year",
+    "meaningTh": "ฤดูกาล",
+    "example": "Winter is my favorite season."
+  },
+  {
+    "word": "seat",
+    "pos": "noun",
+    "meaningEn": "something you sit on",
+    "meaningTh": "ที่นั่ง",
+    "example": "Take a seat."
+  },
+  {
+    "word": "second",
+    "pos": "adverb",
+    "meaningEn": "in the position after first",
+    "meaningTh": "ที่สอง",
+    "example": "She finished second."
+  },
+  {
+    "word": "secondly",
+    "pos": "adverb",
+    "meaningEn": "used to introduce the second point",
+    "meaningTh": "ประการที่สอง",
+    "example": "Secondly, we must plan carefully."
+  },
+  {
+    "word": "secret",
+    "pos": "adjective, noun",
+    "meaningEn": "known by only a few people; something kept hidden",
+    "meaningTh": "ความลับ; ลับ",
+    "example": "This is a secret."
+  },
+  {
+    "word": "secretary",
+    "pos": "noun",
+    "meaningEn": "a person who works in an office and arranges meetings",
+    "meaningTh": "เลขานุการ",
+    "example": "The secretary answered the phone."
+  },
+  {
+    "word": "seem",
+    "pos": "verb",
+    "meaningEn": "to appear to be",
+    "meaningTh": "ดูเหมือน",
+    "example": "He seems tired."
+  },
+  {
+    "word": "sense",
+    "pos": "noun",
+    "meaningEn": "a feeling or understanding",
+    "meaningTh": "ความรู้สึก; ประสาทสัมผัส",
+    "example": "That makes sense."
+  },
+  {
+    "word": "separate",
+    "pos": "adjective",
+    "meaningEn": "not together",
+    "meaningTh": "แยกจากกัน",
+    "example": "Keep the items separate."
+  },
+  {
+    "word": "series",
+    "pos": "noun",
+    "meaningEn": "a number of related events or programs",
+    "meaningTh": "ชุด; ซีรีส์",
+    "example": "I watched a TV series."
+  },
+  {
+    "word": "serious",
+    "pos": "adjective",
+    "meaningEn": "important or not joking",
+    "meaningTh": "จริงจัง",
+    "example": "This is a serious problem."
+  },
+  {
+    "word": "serve",
+    "pos": "verb",
+    "meaningEn": "to give food or help",
+    "meaningTh": "เสิร์ฟ; ให้บริการ",
+    "example": "They serve breakfast."
+  },
+  {
+    "word": "service",
+    "pos": "noun",
+    "meaningEn": "help or work done for others",
+    "meaningTh": "บริการ",
+    "example": "The service was excellent."
+  },
+  {
+    "word": "several",
+    "pos": "determiner, pronoun",
+    "meaningEn": "more than two but not many",
+    "meaningTh": "หลาย",
+    "example": "Several people came."
+  },
+  {
+    "word": "shake",
+    "pos": "verb",
+    "meaningEn": "to move quickly up and down",
+    "meaningTh": "เขย่า",
+    "example": "Shake the bottle."
+  },
+  {
+    "word": "shall",
+    "pos": "modal verb",
+    "meaningEn": "used to suggest or ask politely",
+    "meaningTh": "จะ (ใช้เสนอ/ถาม)",
+    "example": "Shall we go?"
+  },
+  {
+    "word": "shape",
+    "pos": "noun",
+    "meaningEn": "the form of something",
+    "meaningTh": "รูปร่าง",
+    "example": "The cake is in the shape of a heart."
+  },
+  {
+    "word": "sheet",
+    "pos": "noun",
+    "meaningEn": "a large piece of cloth or paper",
+    "meaningTh": "แผ่น; ผ้าปูที่นอน",
+    "example": "Write on a sheet of paper."
+  },
+  {
+    "word": "ship",
+    "pos": "noun",
+    "meaningEn": "a large boat",
+    "meaningTh": "เรือ",
+    "example": "The ship sailed away."
+  },
+  {
+    "word": "shoulder",
+    "pos": "noun",
+    "meaningEn": "the part of the body between neck and arm",
+    "meaningTh": "ไหล่",
+    "example": "He hurt his shoulder."
+  },
+  {
+    "word": "shout",
+    "pos": "verb, noun",
+    "meaningEn": "to speak loudly; a loud cry",
+    "meaningTh": "ตะโกน; เสียงตะโกน",
+    "example": "Do not shout."
+  },
+  {
+    "word": "shut",
+    "pos": "verb, adjective",
+    "meaningEn": "to close; closed",
+    "meaningTh": "ปิด",
+    "example": "Shut the door."
+  },
+  {
+    "word": "side",
+    "pos": "noun",
+    "meaningEn": "one part of something",
+    "meaningTh": "ด้าน",
+    "example": "Stand on this side."
+  },
+  {
+    "word": "sign",
+    "pos": "noun, verb",
+    "meaningEn": "a notice; to write your name",
+    "meaningTh": "ป้าย; ลงนาม",
+    "example": "Please sign here."
+  },
+  {
+    "word": "silver",
+    "pos": "noun, adjective",
+    "meaningEn": "a valuable grey metal; made of silver",
+    "meaningTh": "เงิน; สีเงิน",
+    "example": "She wore a silver ring."
+  },
+  {
+    "word": "simple",
+    "pos": "adjective",
+    "meaningEn": "easy to understand",
+    "meaningTh": "ง่าย",
+    "example": "This question is simple."
+  },
+  {
+    "word": "since",
+    "pos": "preposition, conjunction",
+    "meaningEn": "from a time in the past until now",
+    "meaningTh": "ตั้งแต่",
+    "example": "I have lived here since 2020."
+  },
+  {
+    "word": "singing",
+    "pos": "noun",
+    "meaningEn": "the activity of making musical sounds with the voice",
+    "meaningTh": "การร้องเพลง",
+    "example": "She loves singing."
+  },
+  {
+    "word": "single",
+    "pos": "adjective, noun",
+    "meaningEn": "only one; not married",
+    "meaningTh": "โสด; เดี่ยว",
+    "example": "He is single."
+  },
+  {
+    "word": "sir",
+    "pos": "noun",
+    "meaningEn": "a polite way to address a man",
+    "meaningTh": "คุณผู้ชาย (คำสุภาพ)",
+    "example": "Yes, sir."
+  },
+  {
+    "word": "site",
+    "pos": "noun",
+    "meaningEn": "a place where something happens",
+    "meaningTh": "สถานที่",
+    "example": "This is a building site."
+  },
+  {
+    "word": "size",
+    "pos": "noun",
+    "meaningEn": "how big or small something is",
+    "meaningTh": "ขนาด",
+    "example": "What size is this shirt?"
+  },
+  {
+    "word": "ski",
+    "pos": "verb, noun",
+    "meaningEn": "to move over snow on skis; a long narrow piece used for skiing",
+    "meaningTh": "เล่นสกี; สกี",
+    "example": "They ski in winter."
+  },
+  {
+    "word": "skiing",
+    "pos": "noun",
+    "meaningEn": "the sport of moving over snow on skis",
+    "meaningTh": "การเล่นสกี",
+    "example": "Skiing is exciting."
+  },
+  {
+    "word": "skin",
+    "pos": "noun",
+    "meaningEn": "the outer covering of the body",
+    "meaningTh": "ผิวหนัง",
+    "example": "Her skin is soft."
+  },
+  {
+    "word": "sky",
+    "pos": "noun",
+    "meaningEn": "the space above the earth",
+    "meaningTh": "ท้องฟ้า",
+    "example": "The sky is blue."
+  },
+  {
+    "word": "sleep",
+    "pos": "noun",
+    "meaningEn": "the natural state of rest",
+    "meaningTh": "การนอน",
+    "example": "I need more sleep."
+  },
+  {
+    "word": "slowly",
+    "pos": "adverb",
+    "meaningEn": "at a slow speed",
+    "meaningTh": "อย่างช้า ๆ",
+    "example": "Walk slowly."
+  },
+  {
+    "word": "smartphone",
+    "pos": "noun",
+    "meaningEn": "a mobile phone with internet access",
+    "meaningTh": "สมาร์ทโฟน",
+    "example": "He bought a new smartphone."
+  },
+  {
+    "word": "smell",
+    "pos": "verb, noun",
+    "meaningEn": "to notice an odor; an odor",
+    "meaningTh": "ได้กลิ่น; กลิ่น",
+    "example": "I smell something sweet."
+  },
+  {
+    "word": "smile",
+    "pos": "verb, noun",
+    "meaningEn": "to show happiness with your face; a happy expression",
+    "meaningTh": "ยิ้ม; รอยยิ้ม",
+    "example": "She gave me a smile."
+  },
+  {
+    "word": "smoke",
+    "pos": "noun, verb",
+    "meaningEn": "the grey gas from fire; to breathe in smoke",
+    "meaningTh": "ควัน; สูบบุหรี่",
+    "example": "Do not smoke here."
+  },
+  {
+    "word": "smoking",
+    "pos": "noun",
+    "meaningEn": "the activity of smoking",
+    "meaningTh": "การสูบบุหรี่",
+    "example": "Smoking is bad for health."
+  },
+  {
+    "word": "soap",
+    "pos": "noun",
+    "meaningEn": "a substance used for washing",
+    "meaningTh": "สบู่",
+    "example": "Wash your hands with soap."
+  },
+  {
+    "word": "soccer",
+    "pos": "noun",
+    "meaningEn": "a sport played with a round ball (football)",
+    "meaningTh": "ฟุตบอล",
+    "example": "They play soccer."
+  },
+  {
+    "word": "social",
+    "pos": "adjective",
+    "meaningEn": "relating to society or meeting people",
+    "meaningTh": "ทางสังคม",
+    "example": "Social media is popular."
+  },
+  {
+    "word": "society",
+    "pos": "noun",
+    "meaningEn": "people living together in a community",
+    "meaningTh": "สังคม",
+    "example": "Education is important in society."
+  },
+  {
+    "word": "sock",
+    "pos": "noun",
+    "meaningEn": "a piece of clothing worn on the foot",
+    "meaningTh": "ถุงเท้า",
+    "example": "He lost a sock."
+  },
+  {
+    "word": "soft",
+    "pos": "adjective",
+    "meaningEn": "not hard",
+    "meaningTh": "นุ่ม",
+    "example": "The pillow is soft."
+  },
+  {
+    "word": "soldier",
+    "pos": "noun",
+    "meaningEn": "a person in the army",
+    "meaningTh": "ทหาร",
+    "example": "The soldier saluted."
+  },
+  {
+    "word": "solution",
+    "pos": "noun",
+    "meaningEn": "an answer to a problem",
+    "meaningTh": "วิธีแก้ปัญหา",
+    "example": "We found a solution."
+  },
+  {
+    "word": "solve",
+    "pos": "verb",
+    "meaningEn": "to find the answer",
+    "meaningTh": "แก้ไข",
+    "example": "Solve this problem."
+  },
+  {
+    "word": "somewhere",
+    "pos": "adverb, pronoun",
+    "meaningEn": "in or to a place not known",
+    "meaningTh": "ที่ไหนสักแห่ง",
+    "example": "She went somewhere."
+  },
+  {
+    "word": "sort",
+    "pos": "noun",
+    "meaningEn": "a type or kind",
+    "meaningTh": "ประเภท",
+    "example": "What sort of music do you like?"
+  },
+  {
+    "word": "source",
+    "pos": "noun",
+    "meaningEn": "the place something comes from",
+    "meaningTh": "แหล่งที่มา",
+    "example": "Water is the main source of life."
+  },
+  {
+    "word": "speaker",
+    "pos": "noun",
+    "meaningEn": "a person who speaks; a device that produces sound",
+    "meaningTh": "ผู้พูด; ลำโพง",
+    "example": "The speaker gave a great talk."
+  },
+  {
+    "word": "specific",
+    "pos": "adjective",
+    "meaningEn": "clearly defined or particular",
+    "meaningTh": "เฉพาะเจาะจง",
+    "example": "Do you have a specific question?"
+  },
+  {
+    "word": "speech",
+    "pos": "noun",
+    "meaningEn": "a formal talk given to an audience",
+    "meaningTh": "สุนทรพจน์",
+    "example": "She gave a speech at school."
+  },
+  {
+    "word": "speed",
+    "pos": "noun",
+    "meaningEn": "how fast something moves",
+    "meaningTh": "ความเร็ว",
+    "example": "The car was at high speed."
+  },
+  {
+    "word": "spider",
+    "pos": "noun",
+    "meaningEn": "a small creature with eight legs",
+    "meaningTh": "แมงมุม",
+    "example": "A spider climbed the wall."
+  },
+  {
+    "word": "spoon",
+    "pos": "noun",
+    "meaningEn": "a tool used for eating soup or stirring",
+    "meaningTh": "ช้อน",
+    "example": "Use a spoon to eat."
+  },
+  {
+    "word": "square",
+    "pos": "adjective, noun",
+    "meaningEn": "having four equal sides; an open area in a town",
+    "meaningTh": "สี่เหลี่ยมจัตุรัส; ลานกว้าง",
+    "example": "Draw a square."
+  },
+  {
+    "word": "stage",
+    "pos": "noun",
+    "meaningEn": "a raised area for performances",
+    "meaningTh": "เวที",
+    "example": "The band went on stage."
+  },
+  {
+    "word": "stair",
+    "pos": "noun",
+    "meaningEn": "one step in a set of steps",
+    "meaningTh": "ขั้นบันได",
+    "example": "He sat on the stair."
+  },
+  {
+    "word": "stamp",
+    "pos": "noun",
+    "meaningEn": "a small piece of paper used for sending letters",
+    "meaningTh": "แสตมป์",
+    "example": "Put a stamp on the envelope."
+  },
+  {
+    "word": "star",
+    "pos": "verb",
+    "meaningEn": "to have a main role in a movie or show",
+    "meaningTh": "แสดงนำ",
+    "example": "She will star in the film."
+  },
+  {
+    "word": "start",
+    "pos": "noun",
+    "meaningEn": "the beginning of something",
+    "meaningTh": "การเริ่มต้น",
+    "example": "The race had a good start."
+  },
+  {
+    "word": "state",
+    "pos": "noun",
+    "meaningEn": "a country or region; a condition",
+    "meaningTh": "รัฐ; สภาพ",
+    "example": "He lives in another state."
+  },
+  {
+    "word": "stay",
+    "pos": "noun",
+    "meaningEn": "a period of time spent in a place",
+    "meaningTh": "การพักอาศัย",
+    "example": "We enjoyed our stay."
+  },
+  {
+    "word": "steal",
+    "pos": "verb",
+    "meaningEn": "to take something without permission",
+    "meaningTh": "ขโมย",
+    "example": "Someone tried to steal my bag."
+  },
+  {
+    "word": "step",
+    "pos": "noun",
+    "meaningEn": "a movement made by lifting the foot",
+    "meaningTh": "ก้าว",
+    "example": "Take one step forward."
+  },
+  {
+    "word": "stomach",
+    "pos": "noun",
+    "meaningEn": "the organ where food is digested",
+    "meaningTh": "กระเพาะอาหาร",
+    "example": "My stomach hurts."
+  },
+  {
+    "word": "stone",
+    "pos": "noun",
+    "meaningEn": "a small piece of rock",
+    "meaningTh": "หิน",
+    "example": "He threw a stone."
+  },
+  {
+    "word": "store",
+    "pos": "noun",
+    "meaningEn": "a shop where goods are sold",
+    "meaningTh": "ร้านค้า",
+    "example": "She works at a store."
+  },
+  {
+    "word": "storm",
+    "pos": "noun",
+    "meaningEn": "a period of strong wind and rain",
+    "meaningTh": "พายุ",
+    "example": "The storm was very strong."
+  },
+  {
+    "word": "straight",
+    "pos": "adverb, adjective",
+    "meaningEn": "without curves; directly",
+    "meaningTh": "ตรง",
+    "example": "Go straight ahead."
+  },
+  {
+    "word": "strange",
+    "pos": "adjective",
+    "meaningEn": "unusual or unexpected",
+    "meaningTh": "แปลก",
+    "example": "That noise is strange."
+  },
+  {
+    "word": "strategy",
+    "pos": "noun",
+    "meaningEn": "a plan to achieve something",
+    "meaningTh": "กลยุทธ์",
+    "example": "We need a new strategy."
+  },
+  {
+    "word": "stress",
+    "pos": "noun, verb",
+    "meaningEn": "pressure or worry; to emphasize",
+    "meaningTh": "ความเครียด; เน้น",
+    "example": "Too much stress is harmful."
+  },
+  {
+    "word": "structure",
+    "pos": "noun",
+    "meaningEn": "the way something is built or organized",
+    "meaningTh": "โครงสร้าง",
+    "example": "The structure is strong."
+  },
+  {
+    "word": "stupid",
+    "pos": "adjective",
+    "meaningEn": "not intelligent",
+    "meaningTh": "โง่",
+    "example": "That was a stupid mistake."
+  },
+  {
+    "word": "succeed",
+    "pos": "verb",
+    "meaningEn": "to achieve a goal",
+    "meaningTh": "ประสบความสำเร็จ",
+    "example": "She worked hard to succeed."
+  },
+  {
+    "word": "successful",
+    "pos": "adjective",
+    "meaningEn": "achieving success",
+    "meaningTh": "ประสบความสำเร็จ",
+    "example": "He is a successful businessman."
+  },
+  {
+    "word": "such",
+    "pos": "determiner, pronoun",
+    "meaningEn": "of that kind",
+    "meaningTh": "เช่นนั้น",
+    "example": "It was such a good day."
+  },
+  {
+    "word": "suddenly",
+    "pos": "adverb",
+    "meaningEn": "quickly and unexpectedly",
+    "meaningTh": "ทันใดนั้น",
+    "example": "Suddenly, it started to rain."
+  },
+  {
+    "word": "suggest",
+    "pos": "verb",
+    "meaningEn": "to propose an idea",
+    "meaningTh": "เสนอแนะ",
+    "example": "I suggest a break."
+  },
+  {
+    "word": "suggestion",
+    "pos": "noun",
+    "meaningEn": "an idea or plan suggested",
+    "meaningTh": "ข้อเสนอแนะ",
+    "example": "Thank you for your suggestion."
+  },
+  {
+    "word": "suit",
+    "pos": "noun",
+    "meaningEn": "a set of formal clothes",
+    "meaningTh": "ชุดสูท",
+    "example": "He wore a black suit."
+  },
+  {
+    "word": "support",
+    "pos": "verb, noun",
+    "meaningEn": "to help; help or encouragement",
+    "meaningTh": "สนับสนุน; การสนับสนุน",
+    "example": "They support the team."
+  },
+  {
+    "word": "suppose",
+    "pos": "verb",
+    "meaningEn": "to think something is likely",
+    "meaningTh": "สมมติ; คิดว่า",
+    "example": "I suppose he is right."
+  },
+  {
+    "word": "sure",
+    "pos": "adverb",
+    "meaningEn": "certainly",
+    "meaningTh": "แน่นอน",
+    "example": "Sure, I can help."
+  },
+  {
+    "word": "surprise",
+    "pos": "noun, verb",
+    "meaningEn": "something unexpected; to cause surprise",
+    "meaningTh": "ความประหลาดใจ; ทำให้ประหลาดใจ",
+    "example": "It was a big surprise."
+  },
+  {
+    "word": "surprised",
+    "pos": "adjective",
+    "meaningEn": "feeling surprise",
+    "meaningTh": "รู้สึกประหลาดใจ",
+    "example": "She was surprised at the news."
+  },
+  {
+    "word": "surprising",
+    "pos": "adjective",
+    "meaningEn": "causing surprise",
+    "meaningTh": "น่าประหลาดใจ",
+    "example": "It was a surprising result."
+  },
+  {
+    "word": "survey",
+    "pos": "noun",
+    "meaningEn": "a set of questions to collect information",
+    "meaningTh": "แบบสำรวจ",
+    "example": "They conducted a survey."
+  },
+  {
+    "word": "sweet",
+    "pos": "adjective, noun",
+    "meaningEn": "having a sugary taste; candy",
+    "meaningTh": "หวาน; ขนมหวาน",
+    "example": "This cake is sweet."
+  },
+  {
+    "word": "symbol",
+    "pos": "noun",
+    "meaningEn": "a sign representing something",
+    "meaningTh": "สัญลักษณ์",
+    "example": "The dove is a symbol of peace."
+  },
+  {
+    "word": "system",
+    "pos": "noun",
+    "meaningEn": "a set of connected parts working together",
+    "meaningTh": "ระบบ",
+    "example": "The system is working well."
+  },
+  {
+    "word": "tablet",
+    "pos": "noun",
+    "meaningEn": "a small computer with a touchscreen",
+    "meaningTh": "แท็บเล็ต",
+    "example": "She uses a tablet to read books."
+  },
+  {
+    "word": "talk",
+    "pos": "noun",
+    "meaningEn": "a conversation or discussion",
+    "meaningTh": "การพูดคุย",
+    "example": "We had a long talk."
+  },
+  {
+    "word": "target",
+    "pos": "noun",
+    "meaningEn": "a goal or aim",
+    "meaningTh": "เป้าหมาย",
+    "example": "They reached their target."
+  },
+  {
+    "word": "task",
+    "pos": "noun",
+    "meaningEn": "a piece of work to be done",
+    "meaningTh": "งาน; ภารกิจ",
+    "example": "Finish the task today."
+  },
+  {
+    "word": "taste",
+    "pos": "noun, verb",
+    "meaningEn": "the flavor of something; to try the flavor",
+    "meaningTh": "รสชาติ; ชิม",
+    "example": "This soup tastes good."
+  },
+  {
+    "word": "teaching",
+    "pos": "noun",
+    "meaningEn": "the job or activity of teaching",
+    "meaningTh": "การสอน",
+    "example": "She loves teaching."
+  },
+  {
+    "word": "technology",
+    "pos": "noun",
+    "meaningEn": "the use of scientific knowledge for practical purposes",
+    "meaningTh": "เทคโนโลยี",
+    "example": "Technology is changing fast."
+  },
+  {
+    "word": "teenage",
+    "pos": "adjective",
+    "meaningEn": "relating to people aged 13–19",
+    "meaningTh": "วัยรุ่น",
+    "example": "She has teenage children."
+  },
+  {
+    "word": "temperature",
+    "pos": "noun",
+    "meaningEn": "how hot or cold something is",
+    "meaningTh": "อุณหภูมิ",
+    "example": "The temperature is high today."
+  },
+  {
+    "word": "term",
+    "pos": "noun",
+    "meaningEn": "a period of time; a word or expression",
+    "meaningTh": "ภาคเรียน; คำศัพท์",
+    "example": "The new term starts Monday."
+  },
+  {
+    "word": "text",
+    "pos": "verb",
+    "meaningEn": "to send a message by phone",
+    "meaningTh": "ส่งข้อความ",
+    "example": "I will text you later."
+  },
+  {
+    "word": "themselves",
+    "pos": "pronoun",
+    "meaningEn": "used when the subject and object are they",
+    "meaningTh": "พวกเขาเอง",
+    "example": "They did it themselves."
+  },
+  {
+    "word": "thick",
+    "pos": "adjective",
+    "meaningEn": "not thin; having a large distance between sides",
+    "meaningTh": "หนา",
+    "example": "The book is thick."
+  },
+  {
+    "word": "thief",
+    "pos": "noun",
+    "meaningEn": "a person who steals",
+    "meaningTh": "ขโมย",
+    "example": "The thief ran away."
+  },
+  {
+    "word": "thin",
+    "pos": "adjective",
+    "meaningEn": "not thick; slim",
+    "meaningTh": "บาง; ผอม",
+    "example": "She is very thin."
+  },
+  {
+    "word": "thinking",
+    "pos": "noun",
+    "meaningEn": "the process of using your mind",
+    "meaningTh": "การคิด",
+    "example": "Good thinking leads to good decisions."
+  },
+  {
+    "word": "third",
+    "pos": "noun",
+    "meaningEn": "the position after second",
+    "meaningTh": "อันดับที่สาม",
+    "example": "He finished in third."
+  },
+  {
+    "word": "thought",
+    "pos": "noun",
+    "meaningEn": "an idea or opinion",
+    "meaningTh": "ความคิด",
+    "example": "That was a good thought."
+  },
+  {
+    "word": "throw",
+    "pos": "verb",
+    "meaningEn": "to send something through the air",
+    "meaningTh": "ขว้าง",
+    "example": "Throw the ball."
+  },
+  {
+    "word": "tidy",
+    "pos": "adjective, verb",
+    "meaningEn": "neat; to make something neat",
+    "meaningTh": "เรียบร้อย; จัดให้เรียบร้อย",
+    "example": "Keep your room tidy."
+  },
+  {
+    "word": "tie",
+    "pos": "verb, noun",
+    "meaningEn": "to fasten; a piece of clothing worn around the neck",
+    "meaningTh": "ผูก; เนคไท",
+    "example": "He tied his shoes."
+  },
+  {
+    "word": "tip",
+    "pos": "noun",
+    "meaningEn": "a small piece of advice; extra money for service",
+    "meaningTh": "คำแนะนำ; ทิป",
+    "example": "Here is a helpful tip."
+  },
+  {
+    "word": "tool",
+    "pos": "noun",
+    "meaningEn": "an instrument used to do a job",
+    "meaningTh": "เครื่องมือ",
+    "example": "This tool is useful."
+  },
+  {
+    "word": "top",
+    "pos": "noun, adjective",
+    "meaningEn": "the highest part; highest",
+    "meaningTh": "ด้านบน; สูงสุด",
+    "example": "He stood at the top."
+  },
+  {
+    "word": "touch",
+    "pos": "verb",
+    "meaningEn": "to put your hand on something",
+    "meaningTh": "สัมผัส",
+    "example": "Do not touch that."
+  },
+  {
+    "word": "tour",
+    "pos": "noun",
+    "meaningEn": "a journey for pleasure",
+    "meaningTh": "การท่องเที่ยว",
+    "example": "They went on a city tour."
+  },
+  {
+    "word": "tourism",
+    "pos": "noun",
+    "meaningEn": "the business of travel and holidays",
+    "meaningTh": "การท่องเที่ยว",
+    "example": "Tourism is important for the economy."
+  },
+  {
+    "word": "towards",
+    "pos": "preposition",
+    "meaningEn": "in the direction of",
+    "meaningTh": "ไปทาง",
+    "example": "She walked towards me."
+  },
+  {
+    "word": "towel",
+    "pos": "noun",
+    "meaningEn": "a piece of cloth used for drying",
+    "meaningTh": "ผ้าเช็ดตัว",
+    "example": "Dry your hands with a towel."
+  },
+  {
+    "word": "tower",
+    "pos": "noun",
+    "meaningEn": "a tall narrow building",
+    "meaningTh": "หอคอย",
+    "example": "The tower is very tall."
+  },
+  {
+    "word": "toy",
+    "pos": "noun, adjective",
+    "meaningEn": "an object for children to play with; not real",
+    "meaningTh": "ของเล่น; เล็ก/จำลอง",
+    "example": "The child has many toys."
+  },
+  {
+    "word": "track",
+    "pos": "noun",
+    "meaningEn": "a path or line; a railway line",
+    "meaningTh": "ทาง; รางรถไฟ",
+    "example": "The train is on the track."
+  },
+  {
+    "word": "tradition",
+    "pos": "noun",
+    "meaningEn": "a custom followed for a long time",
+    "meaningTh": "ประเพณี",
+    "example": "It is a family tradition."
+  },
+  {
+    "word": "traditional",
+    "pos": "adjective",
+    "meaningEn": "following old customs",
+    "meaningTh": "แบบดั้งเดิม",
+    "example": "She wore traditional clothes."
+  },
+  {
+    "word": "train",
+    "pos": "verb",
+    "meaningEn": "to teach or practice skills",
+    "meaningTh": "ฝึกฝน",
+    "example": "They train every day."
+  },
+  {
+    "word": "trainer",
+    "pos": "noun",
+    "meaningEn": "a person who trains others",
+    "meaningTh": "ผู้ฝึกสอน",
+    "example": "The trainer gave advice."
+  },
+  {
+    "word": "training",
+    "pos": "noun",
+    "meaningEn": "the process of learning skills",
+    "meaningTh": "การฝึกอบรม",
+    "example": "The training was helpful."
+  },
+  {
+    "word": "transport",
+    "pos": "noun",
+    "meaningEn": "a system for carrying people or goods",
+    "meaningTh": "การขนส่ง",
+    "example": "Public transport is cheap."
+  },
+  {
+    "word": "traveller",
+    "pos": "noun",
+    "meaningEn": "a person who travels",
+    "meaningTh": "นักเดินทาง",
+    "example": "The traveller took photos."
+  },
+  {
+    "word": "trouble",
+    "pos": "noun",
+    "meaningEn": "problems or difficulties",
+    "meaningTh": "ปัญหา",
+    "example": "He is in trouble."
+  },
+  {
+    "word": "truck",
+    "pos": "noun",
+    "meaningEn": "a large vehicle for carrying goods",
+    "meaningTh": "รถบรรทุก",
+    "example": "The truck carried boxes."
+  },
+  {
+    "word": "twin",
+    "pos": "noun, adjective",
+    "meaningEn": "one of two children born at the same time",
+    "meaningTh": "ฝาแฝด",
+    "example": "She has a twin sister."
+  },
+  {
+    "word": "typical",
+    "pos": "adjective",
+    "meaningEn": "usual or normal for something",
+    "meaningTh": "ตามปกติ",
+    "example": "That is typical behavior."
+  },
+  {
+    "word": "underground",
+    "pos": "adjective, adverb",
+    "meaningEn": "below the ground",
+    "meaningTh": "ใต้ดิน",
+    "example": "They took the underground train."
+  },
+  {
+    "word": "understanding",
+    "pos": "noun",
+    "meaningEn": "knowledge or sympathy",
+    "meaningTh": "ความเข้าใจ",
+    "example": "Thank you for your understanding."
+  },
+  {
+    "word": "unfortunately",
+    "pos": "adverb",
+    "meaningEn": "unluckily",
+    "meaningTh": "น่าเสียดาย",
+    "example": "Unfortunately, we were late."
+  },
+  {
+    "word": "unhappy",
+    "pos": "adjective",
+    "meaningEn": "not happy",
+    "meaningTh": "ไม่มีความสุข",
+    "example": "She felt unhappy."
+  },
+  {
+    "word": "uniform",
+    "pos": "noun",
+    "meaningEn": "special clothes worn by members of a group",
+    "meaningTh": "เครื่องแบบ",
+    "example": "Students wear a uniform."
+  },
+  {
+    "word": "unit",
+    "pos": "noun",
+    "meaningEn": "a single part of something",
+    "meaningTh": "หน่วย",
+    "example": "This book has five units."
+  },
+  {
+    "word": "united",
+    "pos": "adjective",
+    "meaningEn": "joined together",
+    "meaningTh": "รวมกัน",
+    "example": "They stood united."
+  },
+  {
+    "word": "unusual",
+    "pos": "adjective",
+    "meaningEn": "not common",
+    "meaningTh": "ผิดปกติ",
+    "example": "That is unusual."
+  },
+  {
+    "word": "upstairs",
+    "pos": "adjective",
+    "meaningEn": "on or to a higher floor",
+    "meaningTh": "ชั้นบน",
+    "example": "Her room is upstairs."
+  },
+  {
+    "word": "use",
+    "pos": "noun",
+    "meaningEn": "a purpose for something",
+    "meaningTh": "การใช้",
+    "example": "This tool has many uses."
+  },
+  {
+    "word": "used to",
+    "pos": "modal verb",
+    "meaningEn": "did something regularly in the past",
+    "meaningTh": "เคย (ในอดีต)",
+    "example": "I used to play football."
+  },
+  {
+    "word": "user",
+    "pos": "noun",
+    "meaningEn": "a person who uses something",
+    "meaningTh": "ผู้ใช้",
+    "example": "The user logged in."
+  },
+  {
+    "word": "usual",
+    "pos": "adjective",
+    "meaningEn": "normal or typical",
+    "meaningTh": "ตามปกติ",
+    "example": "He arrived at his usual time."
+  },
+  {
+    "word": "valley",
+    "pos": "noun",
+    "meaningEn": "low land between hills",
+    "meaningTh": "หุบเขา",
+    "example": "The village is in a valley."
+  },
+  {
+    "word": "van",
+    "pos": "noun",
+    "meaningEn": "a medium-sized vehicle for goods",
+    "meaningTh": "รถตู้",
+    "example": "The van delivered packages."
+  },
+  {
+    "word": "variety",
+    "pos": "noun",
+    "meaningEn": "different kinds of something",
+    "meaningTh": "ความหลากหลาย",
+    "example": "The shop sells a variety of fruits."
+  },
+  {
+    "word": "vehicle",
+    "pos": "noun",
+    "meaningEn": "a machine used for transport",
+    "meaningTh": "ยานพาหนะ",
+    "example": "The vehicle stopped suddenly."
+  },
+  {
+    "word": "view",
+    "pos": "noun",
+    "meaningEn": "what you can see; an opinion",
+    "meaningTh": "ทิวทัศน์; ความเห็น",
+    "example": "The view is beautiful."
+  },
+  {
+    "word": "virus",
+    "pos": "noun",
+    "meaningEn": "a very small organism that causes disease",
+    "meaningTh": "ไวรัส",
+    "example": "The virus spreads quickly."
+  },
+  {
+    "word": "voice",
+    "pos": "noun",
+    "meaningEn": "the sound made when speaking",
+    "meaningTh": "เสียง",
+    "example": "She has a soft voice."
+  },
+  {
+    "word": "wait",
+    "pos": "noun",
+    "meaningEn": "a period of waiting",
+    "meaningTh": "การรอ",
+    "example": "It was a long wait."
+  },
+  {
+    "word": "war",
+    "pos": "noun",
+    "meaningEn": "a conflict between countries",
+    "meaningTh": "สงคราม",
+    "example": "The war lasted years."
+  },
+  {
+    "word": "wash",
+    "pos": "noun",
+    "meaningEn": "an act of cleaning with water",
+    "meaningTh": "การล้าง",
+    "example": "Give the car a wash."
+  },
+  {
+    "word": "washing",
+    "pos": "noun",
+    "meaningEn": "clothes being washed",
+    "meaningTh": "การซักผ้า",
+    "example": "The washing is dry."
+  },
+  {
+    "word": "wave",
+    "pos": "noun",
+    "meaningEn": "a movement of water; a hand movement",
+    "meaningTh": "คลื่น; โบกมือ",
+    "example": "The waves were high."
+  },
+  {
+    "word": "weak",
+    "pos": "adjective",
+    "meaningEn": "not strong",
+    "meaningTh": "อ่อนแอ",
+    "example": "He felt weak."
+  },
+  {
+    "word": "web",
+    "pos": "noun",
+    "meaningEn": "the internet; a spider's net",
+    "meaningTh": "เว็บ; ใยแมงมุม",
+    "example": "I found it on the web."
+  },
+  {
+    "word": "wedding",
+    "pos": "noun",
+    "meaningEn": "a marriage ceremony",
+    "meaningTh": "งานแต่งงาน",
+    "example": "They attended a wedding."
+  },
+  {
+    "word": "weight",
+    "pos": "noun",
+    "meaningEn": "how heavy something is",
+    "meaningTh": "น้ำหนัก",
+    "example": "What is your weight?"
+  },
+  {
+    "word": "welcome",
+    "pos": "noun",
+    "meaningEn": "a friendly greeting",
+    "meaningTh": "การต้อนรับ",
+    "example": "They gave us a warm welcome."
+  },
+  {
+    "word": "wet",
+    "pos": "adjective",
+    "meaningEn": "covered with water",
+    "meaningTh": "เปียก",
+    "example": "My shoes are wet."
+  },
+  {
+    "word": "wheel",
+    "pos": "noun",
+    "meaningEn": "a round object that turns",
+    "meaningTh": "ล้อ",
+    "example": "The car has four wheels."
+  },
+  {
+    "word": "while",
+    "pos": "conjunction",
+    "meaningEn": "during the time that",
+    "meaningTh": "ในขณะที่",
+    "example": "Listen while I speak."
+  },
+  {
+    "word": "whole",
+    "pos": "adjective",
+    "meaningEn": "all of something",
+    "meaningTh": "ทั้งหมด",
+    "example": "I ate the whole cake."
+  },
+  {
+    "word": "whose",
+    "pos": "determiner, pronoun",
+    "meaningEn": "belonging to which person",
+    "meaningTh": "ของใคร",
+    "example": "Whose bag is this?"
+  },
+  {
+    "word": "wide",
+    "pos": "adjective",
+    "meaningEn": "having a large distance from side to side",
+    "meaningTh": "กว้าง",
+    "example": "The road is wide."
+  },
+  {
+    "word": "wild",
+    "pos": "adjective",
+    "meaningEn": "living in nature, not tame",
+    "meaningTh": "ป่า; ดุร้าย",
+    "example": "Wild animals live here."
+  },
+  {
+    "word": "wind",
+    "pos": "noun",
+    "meaningEn": "moving air",
+    "meaningTh": "ลม",
+    "example": "The wind is strong."
+  },
+  {
+    "word": "winner",
+    "pos": "noun",
+    "meaningEn": "a person who wins",
+    "meaningTh": "ผู้ชนะ",
+    "example": "She is the winner."
+  },
+  {
+    "word": "wish",
+    "pos": "verb, noun",
+    "meaningEn": "to want something; a desire",
+    "meaningTh": "ปรารถนา; ความปรารถนา",
+    "example": "I wish you luck."
+  },
+  {
+    "word": "wood",
+    "pos": "noun",
+    "meaningEn": "the material from trees",
+    "meaningTh": "ไม้",
+    "example": "The table is made of wood."
+  },
+  {
+    "word": "wooden",
+    "pos": "adjective",
+    "meaningEn": "made of wood",
+    "meaningTh": "ทำจากไม้",
+    "example": "It is a wooden chair."
+  },
+  {
+    "word": "working",
+    "pos": "adjective",
+    "meaningEn": "operating correctly",
+    "meaningTh": "ใช้งานได้",
+    "example": "The machine is working."
+  },
+  {
+    "word": "worried",
+    "pos": "adjective",
+    "meaningEn": "feeling anxious",
+    "meaningTh": "กังวล",
+    "example": "She is worried about exams."
+  },
+  {
+    "word": "worry",
+    "pos": "verb",
+    "meaningEn": "to feel anxious",
+    "meaningTh": "กังวล",
+    "example": "Do not worry."
+  },
+  {
+    "word": "worse",
+    "pos": "adjective",
+    "meaningEn": "more bad",
+    "meaningTh": "แย่กว่า",
+    "example": "Today is worse than yesterday."
+  },
+  {
+    "word": "worst",
+    "pos": "adjective",
+    "meaningEn": "most bad",
+    "meaningTh": "แย่ที่สุด",
+    "example": "That was the worst day."
+  },
+  {
+    "word": "wow",
+    "pos": "exclamation",
+    "meaningEn": "used to show surprise",
+    "meaningTh": "ว้าว",
+    "example": "Wow, that is amazing!"
+  },
+  {
+    "word": "yet",
+    "pos": "adverb",
+    "meaningEn": "until now; even now",
+    "meaningTh": "ยัง",
+    "example": "I have not finished yet."
+  },
+  {
+    "word": "yours",
+    "pos": "pronoun",
+    "meaningEn": "belonging to you",
+    "meaningTh": "ของคุณ",
+    "example": "This book is yours."
+  },
+  {
+    "word": "zero",
+    "pos": "number",
+    "meaningEn": "the number 0",
+    "meaningTh": "ศูนย์",
+    "example": "The score was zero."
+  }
+]
