@@ -31,11 +31,15 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     super.initState();
-
-    engine.loadWords().then((_) {
+  
+    engine.loadWords().then((_) async {
+  
+      await engine.loadProgress();  // 🔥 โหลดค่าที่เคยบันทึก
+  
       setState(() {
         loading = false;
       });
+  
     });
   }
 
